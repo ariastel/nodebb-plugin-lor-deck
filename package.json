@@ -1,0 +1,30 @@
+{
+  "name": "nodebb-plugin-lor-deck",
+  "version": "0.0.1",
+  "description": "",
+  "main": "library.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "legends of runeterra",
+    "lor"
+  ],
+  "author": {
+    "name": "Antosik",
+    "email": "grig_anton96@mail.ru"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "runeterra": "^2.0.0"
+  },
+  "nbbpm": {
+    "compatibility": "^1.16.x"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
