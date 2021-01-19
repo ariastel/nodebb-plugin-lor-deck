@@ -1,0 +1,97 @@
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lor-deck {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 0;
+
+  &__section {
+    flex: 0 32%;
+  }
+}
+
+.lor-cards {
+  padding-left: 0;
+}
+
+.lor-card {
+  height: 50px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-family: 'BeaufortforLOL-Regular', sans-serif;
+  background-repeat: no-repeat;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 12px;
+  position: relative;
+  margin-bottom: 2px;
+  border-radius: 8px;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+    border-radius: 8px;
+  }
+
+  &__cost,
+  &__name,
+  &__count {
+    z-index: 1;
+  }
+
+  &__cost {
+    flex: 0 0 24px;
+    height: 24px;
+    margin-right: 8px;
+    font-size: 16px;
+    border-radius: 50%;
+    background: darkblue;
+  }
+
+  &__name {
+    flex: 1;
+    text-shadow: 1px -1px 4px black;
+  }
+
+  &__count {
+    flex: 0;
+    height: 16px;
+    padding: 0 4px;
+    margin-left: 8px;
+    font-size: 14px;
+    background: darkblue;
+  }
+}
+
+
+@set: {
+  noxus: rgba(128, 0, 32, .6) 35%, rgba(128, 0, 32, 0) 70%;
+  demacia: rgba(190, 157, 69, .6) 35%, rgba(190, 157, 69, 0) 70%;
+  freljord: rgba(20, 141, 188, .6) 35%, rgba(20, 141, 188, 0) 70%;
+  ionia: rgba(186, 75, 111, .6) 35%, rgba(186, 75, 111, 0) 70%;
+  piltoverzaun: rgba(179, 91, 38, .6) 35%, rgba(179, 91, 38, 0) 70%;
+  shadowisles: rgba(34, 73, 46, .6) 35%, rgba(34, 73, 46, 0) 70%;
+  bilgewater: rgba(122, 58, 39, .6) 35%, rgba(122, 58, 39, 0) 70%;
+  targon: rgba(68, 138, 134, .6) 35%, rgba(68, 138, 134, 0) 70%;
+}
+
+each(@set, {
+    .lor-card--region-@{key}:before {
+      background: linear-gradient(90deg, @value), right center no-repeat;
+    }
+  }
+);
