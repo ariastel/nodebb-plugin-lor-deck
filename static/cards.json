@@ -1,0 +1,5910 @@
+{
+  "01IO012": {
+    "id": "01IO012",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Параллельные дисциплины",
+    "type": "Заклинание"
+  },
+  "01IO012T2": {
+    "id": "01IO012T2",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Дисциплина духа",
+    "type": "Заклинание"
+  },
+  "01IO012T1": {
+    "id": "01IO012T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Дисциплина тела",
+    "type": "Заклинание"
+  },
+  "01IO015": {
+    "id": "01IO015",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Ясуо",
+    "type": "Чемпион"
+  },
+  "01IO015T1": {
+    "id": "01IO015T1",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Ясуо",
+    "type": "Чемпион"
+  },
+  "01IO015T2": {
+    "id": "01IO015T2",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Стальная буря Ясуо",
+    "type": "Чемпион"
+  },
+  "01IO020": {
+    "id": "01IO020",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Хранительница масок",
+    "type": "Боец"
+  },
+  "01IO045": {
+    "id": "01IO045",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Вестник весны",
+    "type": "Боец"
+  },
+  "01IO008": {
+    "id": "01IO008",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Хвостатая мечница",
+    "type": "Боец"
+  },
+  "01IO040": {
+    "id": "01IO040",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Клинок жизни Кинку",
+    "type": "Боец"
+  },
+  "01IO041": {
+    "id": "01IO041",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Карма",
+    "type": "Чемпион"
+  },
+  "01IO041T1": {
+    "id": "01IO041T1",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Карма",
+    "type": "Чемпион"
+  },
+  "01IO041T2": {
+    "id": "01IO041T2",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Эпохальная проницательность",
+    "type": "Чемпион"
+  },
+  "01IO011": {
+    "id": "01IO011",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Возвращение",
+    "type": "Заклинание"
+  },
+  "01IO009": {
+    "id": "01IO009",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Зед",
+    "type": "Чемпион"
+  },
+  "01IO009T2": {
+    "id": "01IO009T2",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Зед",
+    "type": "Чемпион"
+  },
+  "01IO009T3": {
+    "id": "01IO009T3",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Теневой переход Зеда",
+    "type": "Чемпион"
+  },
+  "01IO009T1": {
+    "id": "01IO009T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Живая тень",
+    "type": "Боец"
+  },
+  "01IO014": {
+    "id": "01IO014",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Старейшина поляны",
+    "type": "Боец"
+  },
+  "01IO005": {
+    "id": "01IO005",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Ловкий поро",
+    "type": "Боец"
+  },
+  "01IO044": {
+    "id": "01IO044",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Заговорщик из Навори",
+    "type": "Боец"
+  },
+  "01IO023": {
+    "id": "01IO023",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Самоцветный защитник",
+    "type": "Боец"
+  },
+  "01IO029": {
+    "id": "01IO029",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Посевы",
+    "type": "Заклинание"
+  },
+  "01IO003": {
+    "id": "01IO003",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Клеймо смерти",
+    "type": "Заклинание"
+  },
+  "01IO047": {
+    "id": "01IO047",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Теневая вспышка",
+    "type": "Заклинание"
+  },
+  "01IO026": {
+    "id": "01IO026",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Вдохновляющий наставник",
+    "type": "Боец"
+  },
+  "01IO024": {
+    "id": "01IO024",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Рассвет и сумерки",
+    "type": "Заклинание"
+  },
+  "01IO028": {
+    "id": "01IO028",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Чешуйчатый кусака",
+    "type": "Боец"
+  },
+  "01IO057": {
+    "id": "01IO057",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Теневая убийца",
+    "type": "Боец"
+  },
+  "01IO028T2": {
+    "id": "01IO028T2",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Чешуйчатый кусака",
+    "type": "Боец"
+  },
+  "01IO028T1": {
+    "id": "01IO028T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Чешуйчатый кусака",
+    "type": "Боец"
+  },
+  "01IO032": {
+    "id": "01IO032",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Шен",
+    "type": "Чемпион"
+  },
+  "01IO032T1": {
+    "id": "01IO032T1",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Шен",
+    "type": "Чемпион"
+  },
+  "01IO032T2": {
+    "id": "01IO032T2",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Плечом к плечу Шена",
+    "type": "Чемпион"
+  },
+  "01IO013": {
+    "id": "01IO013",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Зловещая тень",
+    "type": "Боец"
+  },
+  "01IO018": {
+    "id": "01IO018",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Спешка",
+    "type": "Заклинание"
+  },
+  "01IO056": {
+    "id": "01IO056",
+    "region": "ionia",
+    "cost": 7,
+    "name": "Енэ, Охотник на ветер",
+    "type": "Боец"
+  },
+  "01IO056T1": {
+    "id": "01IO056T1",
+    "region": "ionia",
+    "cost": 0,
+    "name": "Ошеломляющие удары",
+    "type": "Способность"
+  },
+  "01IO016": {
+    "id": "01IO016",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Мудрец ветра",
+    "type": "Боец"
+  },
+  "01IO036": {
+    "id": "01IO036",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Страж поляны",
+    "type": "Боец"
+  },
+  "01IO033": {
+    "id": "01IO033",
+    "region": "ionia",
+    "cost": 9,
+    "name": "Мина Быстроногая",
+    "type": "Боец"
+  },
+  "01IO001": {
+    "id": "01IO001",
+    "region": "ionia",
+    "cost": 7,
+    "name": "Ритуал обновления",
+    "type": "Заклинание"
+  },
+  "01IO010": {
+    "id": "01IO010",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Плечом к плечу",
+    "type": "Заклинание"
+  },
+  "01IO022": {
+    "id": "01IO022",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Призрак",
+    "type": "Заклинание"
+  },
+  "01IO021": {
+    "id": "01IO021",
+    "region": "ionia",
+    "cost": 7,
+    "name": "Птенец ветрокрыла",
+    "type": "Боец"
+  },
+  "01IO054": {
+    "id": "01IO054",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Эпохальная проницательность",
+    "type": "Заклинание"
+  },
+  "01IO027": {
+    "id": "01IO027",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Теневая пророчица",
+    "type": "Боец"
+  },
+  "01IO031": {
+    "id": "01IO031",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Пьющий облака",
+    "type": "Боец"
+  },
+  "01IO002": {
+    "id": "01IO002",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Воля Ионии",
+    "type": "Заклинание"
+  },
+  "01IO033T1": {
+    "id": "01IO033T1",
+    "region": "ionia",
+    "cost": 0,
+    "name": "Целься в небо",
+    "type": "Способность"
+  },
+  "01IO017": {
+    "id": "01IO017",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Лазутчик из Навори",
+    "type": "Боец"
+  },
+  "01IO042": {
+    "id": "01IO042",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Ученик из школы боевых искусств",
+    "type": "Боец"
+  },
+  "01IO006": {
+    "id": "01IO006",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Парочка с поляны",
+    "type": "Боец"
+  },
+  "01IO050": {
+    "id": "01IO050",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Разведчица Кинку",
+    "type": "Боец"
+  },
+  "01IO048": {
+    "id": "01IO048",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Юсари",
+    "type": "Боец"
+  },
+  "01IO007": {
+    "id": "01IO007",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Рен Клинок тени",
+    "type": "Боец"
+  },
+  "01IO053": {
+    "id": "01IO053",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Изумрудный пробудитель",
+    "type": "Боец"
+  },
+  "01IO004": {
+    "id": "01IO004",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Зелье здоровья",
+    "type": "Заклинание"
+  },
+  "01IO049": {
+    "id": "01IO049",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Отказ",
+    "type": "Заклинание"
+  },
+  "01IO052": {
+    "id": "01IO052",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Разбойник из Навори",
+    "type": "Боец"
+  },
+  "01IO052T1": {
+    "id": "01IO052T1",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Грабитель из Навори",
+    "type": "Боец"
+  },
+  "01IO030": {
+    "id": "01IO030",
+    "region": "ionia",
+    "cost": 7,
+    "name": "Небесный змей",
+    "type": "Боец"
+  },
+  "01IO019": {
+    "id": "01IO019",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Служительница поляны",
+    "type": "Боец"
+  },
+  "01IO046": {
+    "id": "01IO046",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Стальная буря",
+    "type": "Заклинание"
+  },
+  "01IO037": {
+    "id": "01IO037",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Пристанище духа",
+    "type": "Заклинание"
+  },
+  "01IO043": {
+    "id": "01IO043",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Повелитель рек",
+    "type": "Боец"
+  },
+  "01IO038": {
+    "id": "01IO038",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Монашка-отшельница",
+    "type": "Боец"
+  },
+  "01IO039": {
+    "id": "01IO039",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Теневой переход",
+    "type": "Заклинание"
+  },
+  "01IO055": {
+    "id": "01IO055",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Защитник ци",
+    "type": "Заклинание"
+  },
+  "01NX020": {
+    "id": "01NX020",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Дрейвен",
+    "type": "Чемпион"
+  },
+  "01NX020T3": {
+    "id": "01NX020T3",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Дрейвен",
+    "type": "Чемпион"
+  },
+  "01NX020T2": {
+    "id": "01NX020T2",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Кружащаяся смерть Дрейвена",
+    "type": "Чемпион"
+  },
+  "01NX020T1": {
+    "id": "01NX020T1",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Вращающийся топор",
+    "type": "Заклинание"
+  },
+  "01NX006": {
+    "id": "01NX006",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Владимир",
+    "type": "Чемпион"
+  },
+  "01NX006T4": {
+    "id": "01NX006T4",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Алый заговор",
+    "type": "Способность"
+  },
+  "01NX006T2": {
+    "id": "01NX006T2",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Алый заговор",
+    "type": "Способность"
+  },
+  "01NX006T1": {
+    "id": "01NX006T1",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Владимир",
+    "type": "Чемпион"
+  },
+  "01NX006T3": {
+    "id": "01NX006T3",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Магия крови Владимира",
+    "type": "Чемпион"
+  },
+  "01NX004": {
+    "id": "01NX004",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Выбраковка",
+    "type": "Заклинание"
+  },
+  "01NX048": {
+    "id": "01NX048",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Алый хранитель",
+    "type": "Боец"
+  },
+  "01NX038": {
+    "id": "01NX038",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Дариус",
+    "type": "Чемпион"
+  },
+  "01NX023": {
+    "id": "01NX023",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Паучье полчище",
+    "type": "Боец"
+  },
+  "01NX013": {
+    "id": "01NX013",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Решающий маневр",
+    "type": "Заклинание"
+  },
+  "01NX046": {
+    "id": "01NX046",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Паук-стражник",
+    "type": "Боец"
+  },
+  "01NX046T1": {
+    "id": "01NX046T1",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Парализующий укус",
+    "type": "Способность"
+  },
+  "01NX047": {
+    "id": "01NX047",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Магия крови",
+    "type": "Заклинание"
+  },
+  "01NX040": {
+    "id": "01NX040",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Легионер-диверсантка",
+    "type": "Боец"
+  },
+  "01NX038T2": {
+    "id": "01NX038T2",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Дариус",
+    "type": "Чемпион"
+  },
+  "01NX038T1": {
+    "id": "01NX038T1",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Истребление Дариуса",
+    "type": "Чемпион"
+  },
+  "01NX025": {
+    "id": "01NX025",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Братские узы",
+    "type": "Заклинание"
+  },
+  "01NX055": {
+    "id": "01NX055",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Домашний паук",
+    "type": "Боец"
+  },
+  "01NX030": {
+    "id": "01NX030",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Алая ученица",
+    "type": "Боец"
+  },
+  "01NX007": {
+    "id": "01NX007",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Комментатор боев",
+    "type": "Боец"
+  },
+  "01NX021": {
+    "id": "01NX021",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ноксианский мародер",
+    "type": "Боец"
+  },
+  "01NX009": {
+    "id": "01NX009",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Любимец толпы",
+    "type": "Боец"
+  },
+  "01NX011": {
+    "id": "01NX011",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Кружащаяся смерть",
+    "type": "Заклинание"
+  },
+  "01NX053": {
+    "id": "01NX053",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Бой уравнителей",
+    "type": "Заклинание"
+  },
+  "01NX040T1": {
+    "id": "01NX040T1",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Саботаж",
+    "type": "Способность"
+  },
+  "01NX054": {
+    "id": "01NX054",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Угрожающий рык",
+    "type": "Заклинание"
+  },
+  "01NX029": {
+    "id": "01NX029",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Легионер-ветеран",
+    "type": "Боец"
+  },
+  "01NX014": {
+    "id": "01NX014",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Шираза Клинок",
+    "type": "Боец"
+  },
+  "01NX042": {
+    "id": "01NX042",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Катарина",
+    "type": "Чемпион"
+  },
+  "01NX042T2": {
+    "id": "01NX042T2",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Катарина",
+    "type": "Чемпион"
+  },
+  "01NX042T1": {
+    "id": "01NX042T1",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Цветок смерти Катарины",
+    "type": "Чемпион"
+  },
+  "01NX051": {
+    "id": "01NX051",
+    "region": "noxus",
+    "cost": 8,
+    "name": "Капитан Фаррон",
+    "type": "Боец"
+  },
+  "01NX012": {
+    "id": "01NX012",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Легионер арьергарда",
+    "type": "Боец"
+  },
+  "01NX043": {
+    "id": "01NX043",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Лезвие клинка",
+    "type": "Заклинание"
+  },
+  "01NX037": {
+    "id": "01NX037",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Легионер-гренадер",
+    "type": "Боец"
+  },
+  "01NX010": {
+    "id": "01NX010",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Легат",
+    "type": "Боец"
+  },
+  "01NX017": {
+    "id": "01NX017",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Барабанщица легиона",
+    "type": "Боец"
+  },
+  "01NX003": {
+    "id": "01NX003",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Букмекер",
+    "type": "Боец"
+  },
+  "01NX039": {
+    "id": "01NX039",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Дальновидность",
+    "type": "Заклинание"
+  },
+  "01NX041": {
+    "id": "01NX041",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Трифарианский щитолом",
+    "type": "Боец"
+  },
+  "01NX036": {
+    "id": "01NX036",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Минотавр-уравнитель",
+    "type": "Боец"
+  },
+  "01NX044": {
+    "id": "01NX044",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Таран",
+    "type": "Боец"
+  },
+  "01NX005": {
+    "id": "01NX005",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Алая аристократка",
+    "type": "Боец"
+  },
+  "01NX016": {
+    "id": "01NX016",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Способный трифарианец",
+    "type": "Боец"
+  },
+  "01NX019": {
+    "id": "01NX019",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Мощь",
+    "type": "Заклинание"
+  },
+  "01NX015": {
+    "id": "01NX015",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Любимый питомец",
+    "type": "Боец"
+  },
+  "01NX050": {
+    "id": "01NX050",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Цветок смерти",
+    "type": "Заклинание"
+  },
+  "01NX056": {
+    "id": "01NX056",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Шунпо",
+    "type": "Заклинание"
+  },
+  "01NX033": {
+    "id": "01NX033",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Трифарианский инспектор",
+    "type": "Боец"
+  },
+  "01NX052": {
+    "id": "01NX052",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Кровь за кровь",
+    "type": "Заклинание"
+  },
+  "01NX045": {
+    "id": "01NX045",
+    "region": "noxus",
+    "cost": 7,
+    "name": "Дикарь-уравнитель",
+    "type": "Боец"
+  },
+  "01NX031": {
+    "id": "01NX031",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Трифарианская охотница за славой",
+    "type": "Боец"
+  },
+  "01NX002": {
+    "id": "01NX002",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Истребление",
+    "type": "Заклинание"
+  },
+  "01NX008": {
+    "id": "01NX008",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Наездник на василиске",
+    "type": "Боец"
+  },
+  "01NX034": {
+    "id": "01NX034",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Ласковый поро",
+    "type": "Боец"
+  },
+  "01NX035": {
+    "id": "01NX035",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Главный фанат Дрейвена",
+    "type": "Боец"
+  },
+  "01NX026": {
+    "id": "01NX026",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Безрассудный трифарианец",
+    "type": "Боец"
+  },
+  "01NX027": {
+    "id": "01NX027",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Эликсир гнева",
+    "type": "Заклинание"
+  },
+  "01NX022": {
+    "id": "01NX022",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ноксианская гильотина",
+    "type": "Заклинание"
+  },
+  "01NX032": {
+    "id": "01NX032",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Алый пробудитель",
+    "type": "Боец"
+  },
+  "01NX024": {
+    "id": "01NX024",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Кейто Рука",
+    "type": "Боец"
+  },
+  "01NX049": {
+    "id": "01NX049",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Коварство",
+    "type": "Заклинание"
+  },
+  "01DE031": {
+    "id": "01DE031",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Глашатаи зари",
+    "type": "Боец"
+  },
+  "01DE022": {
+    "id": "01DE022",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Люциан",
+    "type": "Чемпион"
+  },
+  "01DE019": {
+    "id": "01DE019",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Мобилизация",
+    "type": "Заклинание"
+  },
+  "01DE042": {
+    "id": "01DE042",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Люкс",
+    "type": "Чемпион"
+  },
+  "01DE042T1": {
+    "id": "01DE042T1",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Призматический барьер Люкс",
+    "type": "Чемпион"
+  },
+  "01DE042T2": {
+    "id": "01DE042T2",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Люкс",
+    "type": "Чемпион"
+  },
+  "01DE042T3": {
+    "id": "01DE042T3",
+    "region": "demacia",
+    "cost": 0,
+    "name": "Последняя искра",
+    "type": "Заклинание"
+  },
+  "01DE010": {
+    "id": "01DE010",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Быстрокрылый копейщик",
+    "type": "Боец"
+  },
+  "01DE020": {
+    "id": "01DE020",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Защитница Авангарда",
+    "type": "Боец"
+  },
+  "01DE034": {
+    "id": "01DE034",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Боевой кузнец",
+    "type": "Боец"
+  },
+  "01DE002": {
+    "id": "01DE002",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Тианна Краунгард",
+    "type": "Боец"
+  },
+  "01DE012": {
+    "id": "01DE012",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Гарен",
+    "type": "Чемпион"
+  },
+  "01DE012T1": {
+    "id": "01DE012T1",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Гарен",
+    "type": "Чемпион"
+  },
+  "01DE012T2": {
+    "id": "01DE012T2",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Правосудие Гарена",
+    "type": "Чемпион"
+  },
+  "01DE017": {
+    "id": "01DE017",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Один в поле воин",
+    "type": "Заклинание"
+  },
+  "01DE045": {
+    "id": "01DE045",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Фиора",
+    "type": "Чемпион"
+  },
+  "01DE052": {
+    "id": "01DE052",
+    "region": "demacia",
+    "cost": 9,
+    "name": "Стальной строй",
+    "type": "Боец"
+  },
+  "01DE021": {
+    "id": "01DE021",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Нескончаемая погоня",
+    "type": "Заклинание"
+  },
+  "01DE022T2": {
+    "id": "01DE022T2",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Нескончаемая погоня Люциана",
+    "type": "Чемпион"
+  },
+  "01DE022T1": {
+    "id": "01DE022T1",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Люциан",
+    "type": "Чемпион"
+  },
+  "01DE025": {
+    "id": "01DE025",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Арест",
+    "type": "Заклинание"
+  },
+  "01DE007": {
+    "id": "01DE007",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Правосудие",
+    "type": "Заклинание"
+  },
+  "01DE055": {
+    "id": "01DE055",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Дуэлянт Лоранов",
+    "type": "Боец"
+  },
+  "01DE048": {
+    "id": "01DE048",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Охотник на магов – подстрекатель",
+    "type": "Боец"
+  },
+  "01DE001": {
+    "id": "01DE001",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Знаменосец Авангарда",
+    "type": "Боец"
+  },
+  "01DE043": {
+    "id": "01DE043",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Военные повара",
+    "type": "Боец"
+  },
+  "01DE049": {
+    "id": "01DE049",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Удалой поро",
+    "type": "Боец"
+  },
+  "01DE053": {
+    "id": "01DE053",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Шевалье Лоранов",
+    "type": "Боец"
+  },
+  "01DE033": {
+    "id": "01DE033",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Почтение памяти",
+    "type": "Заклинание"
+  },
+  "01DE045T1": {
+    "id": "01DE045T1",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Фиора",
+    "type": "Чемпион"
+  },
+  "01DE045T2": {
+    "id": "01DE045T2",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Парирование Фиоры",
+    "type": "Чемпион"
+  },
+  "01DE044": {
+    "id": "01DE044",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Прилив храбрости",
+    "type": "Заклинание"
+  },
+  "01DE024": {
+    "id": "01DE024",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Охотник на магов – хранитель",
+    "type": "Боец"
+  },
+  "01DE004": {
+    "id": "01DE004",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Среброкрыл Авангарда",
+    "type": "Боец"
+  },
+  "01DE011": {
+    "id": "01DE011",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Протеже Лоранов",
+    "type": "Боец"
+  },
+  "01DE047": {
+    "id": "01DE047",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Преемственность",
+    "type": "Заклинание"
+  },
+  "01DE046": {
+    "id": "01DE046",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Разведчик Авангарда",
+    "type": "Боец"
+  },
+  "01DE050": {
+    "id": "01DE050",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Зачистка",
+    "type": "Заклинание"
+  },
+  "01DE016": {
+    "id": "01DE016",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Воин Бесстрашного авангарда",
+    "type": "Боец"
+  },
+  "01DE040": {
+    "id": "01DE040",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Охотник на магов – увещеватель",
+    "type": "Боец"
+  },
+  "01DE036": {
+    "id": "01DE036",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Оруженосец Авангарда",
+    "type": "Боец"
+  },
+  "01DE037": {
+    "id": "01DE037",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Парирование",
+    "type": "Заклинание"
+  },
+  "01DE014": {
+    "id": "01DE014",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Подкрепление",
+    "type": "Заклинание"
+  },
+  "01DE015": {
+    "id": "01DE015",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Сияющая стражница",
+    "type": "Боец"
+  },
+  "01DE003": {
+    "id": "01DE003",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Оружейник Лоранов",
+    "type": "Боец"
+  },
+  "01DE026": {
+    "id": "01DE026",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Поединок",
+    "type": "Заклинание"
+  },
+  "01DE032": {
+    "id": "01DE032",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Призматический барьер",
+    "type": "Заклинание"
+  },
+  "01DE027": {
+    "id": "01DE027",
+    "region": "demacia",
+    "cost": 3,
+    "name": "К бою!",
+    "type": "Заклинание"
+  },
+  "01DE006": {
+    "id": "01DE006",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Сержант Авангарда",
+    "type": "Боец"
+  },
+  "01DE038": {
+    "id": "01DE038",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Сенна, Страж света",
+    "type": "Боец"
+  },
+  "01DE041": {
+    "id": "01DE041",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Спина к спине",
+    "type": "Заклинание"
+  },
+  "01DE035": {
+    "id": "01DE035",
+    "region": "demacia",
+    "cost": 6,
+    "name": "За Демасию!",
+    "type": "Заклинание"
+  },
+  "01DE018": {
+    "id": "01DE018",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Световой удар",
+    "type": "Заклинание"
+  },
+  "01DE009": {
+    "id": "01DE009",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Стальная защитница",
+    "type": "Боец"
+  },
+  "01DE039": {
+    "id": "01DE039",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Цитрия из Клаудфилда",
+    "type": "Боец"
+  },
+  "01DE056": {
+    "id": "01DE056",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Клинок Авангарда",
+    "type": "Боец"
+  },
+  "01DE029": {
+    "id": "01DE029",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Легкокрылый охотник",
+    "type": "Боец"
+  },
+  "01DE028": {
+    "id": "01DE028",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Конница Авангарда",
+    "type": "Боец"
+  },
+  "01DE013": {
+    "id": "01DE013",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Кольчуга",
+    "type": "Заклинание"
+  },
+  "01DE023": {
+    "id": "01DE023",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Охотница на магов – дознаватель",
+    "type": "Боец"
+  },
+  "01DE051": {
+    "id": "01DE051",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Цитрия Отважная",
+    "type": "Боец"
+  },
+  "01DE054": {
+    "id": "01DE054",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Воительница Авангарда",
+    "type": "Боец"
+  },
+  "01DE030": {
+    "id": "01DE030",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Пикирующий среброкрыл",
+    "type": "Боец"
+  },
+  "01PZ040": {
+    "id": "01PZ040",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Джинкс",
+    "type": "Чемпион"
+  },
+  "01PZ040T3": {
+    "id": "01PZ040T3",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Бодрячком Джинкс",
+    "type": "Чемпион"
+  },
+  "01PZ040T2": {
+    "id": "01PZ040T2",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Супер-мега-ракета смерти!",
+    "type": "Заклинание"
+  },
+  "01PZ040T1": {
+    "id": "01PZ040T1",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Джинкс",
+    "type": "Чемпион"
+  },
+  "01PZ008": {
+    "id": "01PZ008",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Тимо",
+    "type": "Чемпион"
+  },
+  "01PZ008T2": {
+    "id": "01PZ008T2",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Тимо",
+    "type": "Чемпион"
+  },
+  "01PZ008T1": {
+    "id": "01PZ008T1",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Грибное облако Тимо",
+    "type": "Чемпион"
+  },
+  "01PZ056": {
+    "id": "01PZ056",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Хеймердингер",
+    "type": "Чемпион"
+  },
+  "01PZ013": {
+    "id": "01PZ013",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Улучшенный экспериментатор",
+    "type": "Боец"
+  },
+  "01PZ007": {
+    "id": "01PZ007",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Праздничное приспособление",
+    "type": "Боец"
+  },
+  "01PZ056T10": {
+    "id": "01PZ056T10",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Хеймердингер",
+    "type": "Чемпион"
+  },
+  "01PZ056T7": {
+    "id": "01PZ056T7",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Mk2: Хищная турель",
+    "type": "Боец"
+  },
+  "01PZ056T9": {
+    "id": "01PZ056T9",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Mk4: Грозомет",
+    "type": "Боец"
+  },
+  "01PZ056T3": {
+    "id": "01PZ056T3",
+    "region": "piltoverzaun",
+    "cost": 8,
+    "name": "День Прогресса Хеймердингера",
+    "type": "Чемпион"
+  },
+  "01PZ056T8": {
+    "id": "01PZ056T8",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Mk3: Сверхтурель",
+    "type": "Боец"
+  },
+  "01PZ056T2": {
+    "id": "01PZ056T2",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Mk5: Ракетный бластер",
+    "type": "Боец"
+  },
+  "01PZ056T5": {
+    "id": "01PZ056T5",
+    "region": "piltoverzaun",
+    "cost": 7,
+    "name": "Mk7: Бронированный крушитель",
+    "type": "Боец"
+  },
+  "01PZ056T1": {
+    "id": "01PZ056T1",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Mk0: Заводная кромсалка",
+    "type": "Боец"
+  },
+  "01PZ056T4": {
+    "id": "01PZ056T4",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Mk1: Ключбот",
+    "type": "Боец"
+  },
+  "01PZ056T6": {
+    "id": "01PZ056T6",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Mk6: Стенобой",
+    "type": "Боец"
+  },
+  "01PZ018": {
+    "id": "01PZ018",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Юное дарование",
+    "type": "Боец"
+  },
+  "01PZ019": {
+    "id": "01PZ019",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Нетерпеливый ученик",
+    "type": "Боец"
+  },
+  "01PZ025": {
+    "id": "01PZ025",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Торговец грибами",
+    "type": "Боец"
+  },
+  "01PZ048": {
+    "id": "01PZ048",
+    "region": "piltoverzaun",
+    "cost": 9,
+    "name": "Корина Вераза",
+    "type": "Боец"
+  },
+  "01PZ048T1": {
+    "id": "01PZ048T1",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Опус магнум",
+    "type": "Способность"
+  },
+  "01PZ032": {
+    "id": "01PZ032",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Утильный выползень",
+    "type": "Боец"
+  },
+  "01PZ015": {
+    "id": "01PZ015",
+    "region": "piltoverzaun",
+    "cost": 8,
+    "name": "Хекстек-рекс",
+    "type": "Боец"
+  },
+  "01PZ022": {
+    "id": "01PZ022",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Ядовитый гриб",
+    "type": "Ловушка"
+  },
+  "01PZ028": {
+    "id": "01PZ028",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Шараш-монтаж",
+    "type": "Заклинание"
+  },
+  "01PZ050": {
+    "id": "01PZ050",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Переполняющая магия",
+    "type": "Заклинание"
+  },
+  "01PZ054": {
+    "id": "01PZ054",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Новичок из взрывотряда",
+    "type": "Боец"
+  },
+  "01PZ054T1": {
+    "id": "01PZ054T1",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Диверсия",
+    "type": "Способность"
+  },
+  "01PZ030": {
+    "id": "01PZ030",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Подозрительная личность",
+    "type": "Боец"
+  },
+  "01PZ030T1": {
+    "id": "01PZ030T1",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Притворство",
+    "type": "Способность"
+  },
+  "01PZ017": {
+    "id": "01PZ017",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Продавец старых капсул",
+    "type": "Боец"
+  },
+  "01PZ038": {
+    "id": "01PZ038",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Копатель Сточных ям",
+    "type": "Боец"
+  },
+  "01PZ036": {
+    "id": "01PZ036",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Эзреаль",
+    "type": "Чемпион"
+  },
+  "01PZ036T1": {
+    "id": "01PZ036T1",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Эзреаль",
+    "type": "Чемпион"
+  },
+  "01PZ036T2": {
+    "id": "01PZ036T2",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Мистический выстрел Эзреаля",
+    "type": "Чемпион"
+  },
+  "01PZ035": {
+    "id": "01PZ035",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Джей Медарда",
+    "type": "Боец"
+  },
+  "01PZ010": {
+    "id": "01PZ010",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Грибное облако",
+    "type": "Заклинание"
+  },
+  "01PZ045": {
+    "id": "01PZ045",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Заунская оборванка",
+    "type": "Боец"
+  },
+  "01PZ013T1": {
+    "id": "01PZ013T1",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Опасные исследования",
+    "type": "Способность"
+  },
+  "01PZ002": {
+    "id": "01PZ002",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Хозяин злачного местечка",
+    "type": "Боец"
+  },
+  "01PZ004": {
+    "id": "01PZ004",
+    "region": "piltoverzaun",
+    "cost": 7,
+    "name": "Прицельный залп",
+    "type": "Заклинание"
+  },
+  "01PZ020": {
+    "id": "01PZ020",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Отважная поро",
+    "type": "Боец"
+  },
+  "01PZ046": {
+    "id": "01PZ046",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Подделки",
+    "type": "Заклинание"
+  },
+  "01PZ052": {
+    "id": "01PZ052",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Мистический выстрел",
+    "type": "Заклинание"
+  },
+  "01PZ033": {
+    "id": "01PZ033",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Преследование совершенства",
+    "type": "Заклинание"
+  },
+  "01PZ033T1": {
+    "id": "01PZ033T1",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Котострофа",
+    "type": "Боец"
+  },
+  "01PZ005": {
+    "id": "01PZ005",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Хекстековый преобразователь",
+    "type": "Заклинание"
+  },
+  "01PZ021": {
+    "id": "01PZ021",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Приспешники Миденстокка",
+    "type": "Боец"
+  },
+  "01PZ031": {
+    "id": "01PZ031",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Разряд Статикка",
+    "type": "Заклинание"
+  },
+  "01PZ059": {
+    "id": "01PZ059",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Золотой бот-крушитель",
+    "type": "Боец"
+  },
+  "01PZ001": {
+    "id": "01PZ001",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Поиски полезного",
+    "type": "Заклинание"
+  },
+  "01PZ057": {
+    "id": "01PZ057",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Монтаж-кураж",
+    "type": "Заклинание"
+  },
+  "01PZ027": {
+    "id": "01PZ027",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Термогенный луч",
+    "type": "Заклинание"
+  },
+  "01PZ055": {
+    "id": "01PZ055",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Сообразительная ученая",
+    "type": "Боец"
+  },
+  "01PZ014": {
+    "id": "01PZ014",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Незарегистрированное изобретение",
+    "type": "Заклинание"
+  },
+  "01PZ034": {
+    "id": "01PZ034",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Щипач-добытчик",
+    "type": "Боец"
+  },
+  "01PZ014T1": {
+    "id": "01PZ014T1",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Незаконное устройство",
+    "type": "Боец"
+  },
+  "01PZ060": {
+    "id": "01PZ060",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Ускоренное преследование",
+    "type": "Заклинание"
+  },
+  "01PZ003": {
+    "id": "01PZ003",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Бот-сборщик",
+    "type": "Боец"
+  },
+  "01PZ044": {
+    "id": "01PZ044",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Химпанк-гитарист",
+    "type": "Боец"
+  },
+  "01PZ029": {
+    "id": "01PZ029",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Известный меценат",
+    "type": "Боец"
+  },
+  "01PZ051": {
+    "id": "01PZ051",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Оружейница-затейница",
+    "type": "Боец"
+  },
+  "01PZ044T2": {
+    "id": "01PZ044T2",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Лицеплавитель",
+    "type": "Способность"
+  },
+  "01PZ023": {
+    "id": "01PZ023",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Профессор фон Ипп",
+    "type": "Боец"
+  },
+  "01PZ024": {
+    "id": "01PZ024",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Самоделкин",
+    "type": "Боец"
+  },
+  "01PZ049": {
+    "id": "01PZ049",
+    "region": "piltoverzaun",
+    "cost": 8,
+    "name": "День Прогресса!",
+    "type": "Заклинание"
+  },
+  "01PZ006": {
+    "id": "01PZ006",
+    "region": "piltoverzaun",
+    "cost": 10,
+    "name": "Страж площади",
+    "type": "Боец"
+  },
+  "01PZ053": {
+    "id": "01PZ053",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Свора вумпов",
+    "type": "Боец"
+  },
+  "01PZ012": {
+    "id": "01PZ012",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Огненные кусаки!",
+    "type": "Боец"
+  },
+  "01PZ039": {
+    "id": "01PZ039",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Бодрячком!",
+    "type": "Заклинание"
+  },
+  "01PZ016": {
+    "id": "01PZ016",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Озарение",
+    "type": "Заклинание"
+  },
+  "01PZ058": {
+    "id": "01PZ058",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Большая вумпа",
+    "type": "Боец"
+  },
+  "01PZ009": {
+    "id": "01PZ009",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Воздухоплаватель-любитель",
+    "type": "Боец"
+  },
+  "01PZ042": {
+    "id": "01PZ042",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Бесстрашная морячка",
+    "type": "Боец"
+  },
+  "01PZ026": {
+    "id": "01PZ026",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Карта щипачей",
+    "type": "Заклинание"
+  },
+  "01PZ043": {
+    "id": "01PZ043",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Химпанк-карманник",
+    "type": "Боец"
+  },
+  "01PZ047": {
+    "id": "01PZ047",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Капсула с кислотой",
+    "type": "Боец"
+  },
+  "01FR024": {
+    "id": "01FR024",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Анивия",
+    "type": "Чемпион"
+  },
+  "01FR024T2": {
+    "id": "01FR024T2",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Ледяная буря",
+    "type": "Способность"
+  },
+  "01FR024T1": {
+    "id": "01FR024T1",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Холодные ветра Анивии",
+    "type": "Чемпион"
+  },
+  "01FR024T3": {
+    "id": "01FR024T3",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Анивия",
+    "type": "Чемпион"
+  },
+  "01FR024T5": {
+    "id": "01FR024T5",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Ледяная буря",
+    "type": "Способность"
+  },
+  "01FR024T4": {
+    "id": "01FR024T4",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Яйценивия",
+    "type": "Чемпион"
+  },
+  "01FR039": {
+    "id": "01FR039",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Триндамир",
+    "type": "Чемпион"
+  },
+  "01FR039T1": {
+    "id": "01FR039T1",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Боевой раж Триндамира",
+    "type": "Чемпион"
+  },
+  "01FR039T2": {
+    "id": "01FR039T2",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Триндамир",
+    "type": "Чемпион"
+  },
+  "01FR006": {
+    "id": "01FR006",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Наследие Хладорожденных",
+    "type": "Заклинание"
+  },
+  "01FR022": {
+    "id": "01FR022",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Сокол знамения",
+    "type": "Боец"
+  },
+  "01FR042": {
+    "id": "01FR042",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Холодные ветра",
+    "type": "Заклинание"
+  },
+  "01FR009": {
+    "id": "01FR009",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Браум",
+    "type": "Чемпион"
+  },
+  "01FR018": {
+    "id": "01FR018",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Снежнозубый волк",
+    "type": "Боец"
+  },
+  "01FR036": {
+    "id": "01FR036",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Стрелок племени аваросан",
+    "type": "Боец"
+  },
+  "01FR045": {
+    "id": "01FR045",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Стеффен, вождь шрамов",
+    "type": "Боец"
+  },
+  "01FR008": {
+    "id": "01FR008",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Одинокий поро",
+    "type": "Боец"
+  },
+  "01FR008T1": {
+    "id": "01FR008T1",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Радостный поро",
+    "type": "Боец"
+  },
+  "01FR055": {
+    "id": "01FR055",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Разбивание",
+    "type": "Заклинание"
+  },
+  "01FR038": {
+    "id": "01FR038",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Эш",
+    "type": "Чемпион"
+  },
+  "01FR038T3": {
+    "id": "01FR038T3",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Ледяная стрела",
+    "type": "Заклинание"
+  },
+  "01FR038T2": {
+    "id": "01FR038T2",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Эш",
+    "type": "Чемпион"
+  },
+  "01FR038T1": {
+    "id": "01FR038T1",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Мгновенная заморозка Эш",
+    "type": "Чемпион"
+  },
+  "01FR029": {
+    "id": "01FR029",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Призыв",
+    "type": "Заклинание"
+  },
+  "01FR035": {
+    "id": "01FR035",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Разбойница без шрамов",
+    "type": "Боец"
+  },
+  "01FR028": {
+    "id": "01FR028",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Разгневанный йети",
+    "type": "Боец"
+  },
+  "01FR020": {
+    "id": "01FR020",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Лавина",
+    "type": "Заклинание"
+  },
+  "01FR014": {
+    "id": "01FR014",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Годовалый йети",
+    "type": "Боец"
+  },
+  "01FR049": {
+    "id": "01FR049",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Крадущийся волк",
+    "type": "Боец"
+  },
+  "01FR037": {
+    "id": "01FR037",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Всадники племени аваросан",
+    "type": "Боец"
+  },
+  "01FR009T1": {
+    "id": "01FR009T1",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Браум",
+    "type": "Чемпион"
+  },
+  "01FR009T2": {
+    "id": "01FR009T2",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Воодушевление Браума",
+    "type": "Чемпион"
+  },
+  "01FR026": {
+    "id": "01FR026",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Когтерысь-альфа",
+    "type": "Боец"
+  },
+  "01FR030": {
+    "id": "01FR030",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Хрупкая сталь",
+    "type": "Заклинание"
+  },
+  "01FR013": {
+    "id": "01FR013",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Вринна, мать шрамов",
+    "type": "Боец"
+  },
+  "01FR019": {
+    "id": "01FR019",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Дыхание зимы",
+    "type": "Заклинание"
+  },
+  "01FR041": {
+    "id": "01FR041",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Дозорный племени аваросан ",
+    "type": "Боец"
+  },
+  "01FR025": {
+    "id": "01FR025",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Пастух поро",
+    "type": "Боец"
+  },
+  "01FR054": {
+    "id": "01FR054",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Разбойница со шрамами",
+    "type": "Боец"
+  },
+  "01FR021": {
+    "id": "01FR021",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Тарказ Бесплеменный",
+    "type": "Боец"
+  },
+  "01FR021T1": {
+    "id": "01FR021T1",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Ярость Тарказа",
+    "type": "Способность"
+  },
+  "01FR043": {
+    "id": "01FR043",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Сердце фляфа",
+    "type": "Боец"
+  },
+  "01FR049T1": {
+    "id": "01FR049T1",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Снежный заяц",
+    "type": "Боец"
+  },
+  "01FR033": {
+    "id": "01FR033",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Камни преображения",
+    "type": "Боец"
+  },
+  "01FR011": {
+    "id": "01FR011",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Лучник ледяной долины",
+    "type": "Боец"
+  },
+  "01FR050": {
+    "id": "01FR050",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Добрый трактирщик",
+    "type": "Боец"
+  },
+  "01FR052": {
+    "id": "01FR052",
+    "region": "freljord",
+    "cost": 10,
+    "name": "Блуждающая",
+    "type": "Боец"
+  },
+  "01FR052T1": {
+    "id": "01FR052T1",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Жуткий взгляд",
+    "type": "Способность"
+  },
+  "01FR016": {
+    "id": "01FR016",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Поро-снэк",
+    "type": "Заклинание"
+  },
+  "01FR005": {
+    "id": "01FR005",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Боевой раж",
+    "type": "Заклинание"
+  },
+  "01FR023": {
+    "id": "01FR023",
+    "region": "freljord",
+    "cost": 12,
+    "name": "Призыв ратной матери",
+    "type": "Заклинание"
+  },
+  "01FR047": {
+    "id": "01FR047",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Одичавший маг",
+    "type": "Боец"
+  },
+  "01FR056": {
+    "id": "01FR056",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Ледяной йети",
+    "type": "Боец"
+  },
+  "01FR027": {
+    "id": "01FR027",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Самец элнука",
+    "type": "Боец"
+  },
+  "01FR057": {
+    "id": "01FR057",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Стайное поведение",
+    "type": "Заклинание"
+  },
+  "01FR004": {
+    "id": "01FR004",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Эликсир стали",
+    "type": "Заклинание"
+  },
+  "01FR048": {
+    "id": "01FR048",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Зверолов племени аваросан",
+    "type": "Боец"
+  },
+  "01FR017": {
+    "id": "01FR017",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Стадо элнуков",
+    "type": "Боец"
+  },
+  "01FR046": {
+    "id": "01FR046",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Воодушевление",
+    "type": "Заклинание"
+  },
+  "01FR012": {
+    "id": "01FR012",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Катализатор эонов",
+    "type": "Заклинание"
+  },
+  "01FR040": {
+    "id": "01FR040",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Шаманка снежных бивней",
+    "type": "Боец"
+  },
+  "01FR031": {
+    "id": "01FR031",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Древний йети",
+    "type": "Боец"
+  },
+  "01FR036T1": {
+    "id": "01FR036T1",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Прямо в цель",
+    "type": "Способность"
+  },
+  "01FR053": {
+    "id": "01FR053",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Могучий поро",
+    "type": "Боец"
+  },
+  "01FR010": {
+    "id": "01FR010",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Клятва кровного воина",
+    "type": "Заклинание"
+  },
+  "01FR001": {
+    "id": "01FR001",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Мгновенная заморозка",
+    "type": "Заклинание"
+  },
+  "01FR043T1": {
+    "id": "01FR043T1",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Фляф поро",
+    "type": "Боец"
+  },
+  "01FR032": {
+    "id": "01FR032",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Звездный оракул",
+    "type": "Боец"
+  },
+  "01FR051": {
+    "id": "01FR051",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Басни",
+    "type": "Заклинание"
+  },
+  "01FR034": {
+    "id": "01FR034",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Выжидающие",
+    "type": "Боец"
+  },
+  "01FR007": {
+    "id": "01FR007",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Бормочущий Бьорг",
+    "type": "Боец"
+  },
+  "01FR003": {
+    "id": "01FR003",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Стражник племени аваросан",
+    "type": "Боец"
+  },
+  "01SI038": {
+    "id": "01SI038",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Призрачная шутница",
+    "type": "Боец"
+  },
+  "01SI049": {
+    "id": "01SI049",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Нечто за гранью",
+    "type": "Заклинание"
+  },
+  "01SI053": {
+    "id": "01SI053",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Элиза",
+    "type": "Чемпион"
+  },
+  "01SI053T1": {
+    "id": "01SI053T1",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Мурашки Элизы",
+    "type": "Чемпион"
+  },
+  "01SI053T2": {
+    "id": "01SI053T2",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Королева пауков",
+    "type": "Чемпион"
+  },
+  "01SI057": {
+    "id": "01SI057",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Древний кроколит",
+    "type": "Боец"
+  },
+  "01SI023": {
+    "id": "01SI023",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Проводница душ",
+    "type": "Боец"
+  },
+  "01SI010": {
+    "id": "01SI010",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Натиск теней",
+    "type": "Заклинание"
+  },
+  "01SI042": {
+    "id": "01SI042",
+    "region": "shadowisles",
+    "cost": 6,
+    "name": "Гекарим",
+    "type": "Чемпион"
+  },
+  "01SI042T1": {
+    "id": "01SI042T1",
+    "region": "shadowisles",
+    "cost": 6,
+    "name": "Гекарим",
+    "type": "Чемпион"
+  },
+  "01SI042T2": {
+    "id": "01SI042T2",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Натиск теней Гекарима",
+    "type": "Чемпион"
+  },
+  "01SI027": {
+    "id": "01SI027",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Свежая жертва",
+    "type": "Заклинание"
+  },
+  "01SI027T1": {
+    "id": "01SI027T1",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Вайлмо",
+    "type": "Боец"
+  },
+  "01SI048": {
+    "id": "01SI048",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Проклятый хранитель",
+    "type": "Боец"
+  },
+  "01SI018": {
+    "id": "01SI018",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Певец печали",
+    "type": "Боец"
+  },
+  "01SI030": {
+    "id": "01SI030",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Калиста",
+    "type": "Чемпион"
+  },
+  "01SI030T2": {
+    "id": "01SI030T2",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Калиста",
+    "type": "Чемпион"
+  },
+  "01SI030T1": {
+    "id": "01SI030T1",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Черное копье Калисты",
+    "type": "Чемпион"
+  },
+  "01SI035": {
+    "id": "01SI035",
+    "region": "shadowisles",
+    "cost": 8,
+    "name": "Раза Сокрушитель",
+    "type": "Боец"
+  },
+  "01SI035T1": {
+    "id": "01SI035T1",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Ночная жатва",
+    "type": "Способность"
+  },
+  "01SI002": {
+    "id": "01SI002",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Паучок",
+    "type": "Боец"
+  },
+  "01SI024": {
+    "id": "01SI024",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Призрачный всадник",
+    "type": "Боец"
+  },
+  "01SI005": {
+    "id": "01SI005",
+    "region": "shadowisles",
+    "cost": 10,
+    "name": "Призрачный ползун",
+    "type": "Боец"
+  },
+  "01SI037": {
+    "id": "01SI037",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Зловещий поро",
+    "type": "Боец"
+  },
+  "01SI048T1": {
+    "id": "01SI048T1",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Сбежавшее отродье",
+    "type": "Боец"
+  },
+  "01SI052": {
+    "id": "01SI052",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Треш",
+    "type": "Чемпион"
+  },
+  "01SI033": {
+    "id": "01SI033",
+    "region": "shadowisles",
+    "cost": 9,
+    "name": "Командир Ледрос",
+    "type": "Боец"
+  },
+  "01SI003": {
+    "id": "01SI003",
+    "region": "shadowisles",
+    "cost": 9,
+    "name": "Страховин",
+    "type": "Заклинание"
+  },
+  "01SI041": {
+    "id": "01SI041",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Неумирающий",
+    "type": "Боец"
+  },
+  "01SI045": {
+    "id": "01SI045",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Поглощение души",
+    "type": "Заклинание"
+  },
+  "01SI036": {
+    "id": "01SI036",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Мурашки",
+    "type": "Заклинание"
+  },
+  "01SI051": {
+    "id": "01SI051",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Страдающий виртуоз",
+    "type": "Боец"
+  },
+  "01SI012": {
+    "id": "01SI012",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Рассеянный островитянин",
+    "type": "Боец"
+  },
+  "01SI052T2": {
+    "id": "01SI052T2",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Короб Треша",
+    "type": "Чемпион"
+  },
+  "01SI052T1": {
+    "id": "01SI052T1",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Треш",
+    "type": "Чемпион"
+  },
+  "01SI031": {
+    "id": "01SI031",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Железный предвестник",
+    "type": "Боец"
+  },
+  "01SI034": {
+    "id": "01SI034",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Черное копье",
+    "type": "Заклинание"
+  },
+  "01SI043": {
+    "id": "01SI043",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Невезучий аристократ",
+    "type": "Боец"
+  },
+  "01SI009": {
+    "id": "01SI009",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Духи старого разлива",
+    "type": "Боец"
+  },
+  "01SI007": {
+    "id": "01SI007",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Проклятая реликвия",
+    "type": "Заклинание"
+  },
+  "01SI007T1": {
+    "id": "01SI007T1",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Яростный дух",
+    "type": "Боец"
+  },
+  "01SI056": {
+    "id": "01SI056",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Обезумевший ловчий",
+    "type": "Боец"
+  },
+  "01SI001": {
+    "id": "01SI001",
+    "region": "shadowisles",
+    "cost": 7,
+    "name": "Возмездие",
+    "type": "Заклинание"
+  },
+  "01SI019": {
+    "id": "01SI019",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Короб",
+    "type": "Заклинание"
+  },
+  "01SI014": {
+    "id": "01SI014",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Туманный дух",
+    "type": "Боец"
+  },
+  "01SI022": {
+    "id": "01SI022",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Метка Островов",
+    "type": "Заклинание"
+  },
+  "01SI006": {
+    "id": "01SI006",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Одержимость",
+    "type": "Заклинание"
+  },
+  "01SI033T1": {
+    "id": "01SI033T1",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Клинок Ледроса",
+    "type": "Способность"
+  },
+  "01SI028": {
+    "id": "01SI028",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Расколотая душа",
+    "type": "Заклинание"
+  },
+  "01SI025": {
+    "id": "01SI025",
+    "region": "shadowisles",
+    "cost": 6,
+    "name": "Зверство",
+    "type": "Заклинание"
+  },
+  "01SI011": {
+    "id": "01SI011",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Ненасытный мясник",
+    "type": "Боец"
+  },
+  "01SI046": {
+    "id": "01SI046",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Зов тумана",
+    "type": "Заклинание"
+  },
+  "01SI050": {
+    "id": "01SI050",
+    "region": "shadowisles",
+    "cost": 6,
+    "name": "Паучий выводок",
+    "type": "Заклинание"
+  },
+  "01SI016": {
+    "id": "01SI016",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Созывающая призраков",
+    "type": "Боец"
+  },
+  "01SI021": {
+    "id": "01SI021",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Колесница, запряженная акулами",
+    "type": "Боец"
+  },
+  "01SI032": {
+    "id": "01SI032",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Летописец Погибели",
+    "type": "Боец"
+  },
+  "01SI058": {
+    "id": "01SI058",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Эфирный проводник",
+    "type": "Боец"
+  },
+  "01SI054": {
+    "id": "01SI054",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Хватка нежити",
+    "type": "Заклинание"
+  },
+  "01SI044": {
+    "id": "01SI044",
+    "region": "shadowisles",
+    "cost": 8,
+    "name": "Призрачная дама",
+    "type": "Боец"
+  },
+  "01SI039": {
+    "id": "01SI039",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Паучий кошмар",
+    "type": "Боец"
+  },
+  "01SI020": {
+    "id": "01SI020",
+    "region": "shadowisles",
+    "cost": 7,
+    "name": "Зажигающий свечи",
+    "type": "Боец"
+  },
+  "01SI029": {
+    "id": "01SI029",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Иссушающий вопль",
+    "type": "Заклинание"
+  },
+  "01SI004": {
+    "id": "01SI004",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Темные глубины",
+    "type": "Боец"
+  },
+  "01SI026": {
+    "id": "01SI026",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Жертва Стража",
+    "type": "Боец"
+  },
+  "01SI040": {
+    "id": "01SI040",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Мерзкий пир",
+    "type": "Заклинание"
+  },
+  "01SI015": {
+    "id": "01SI015",
+    "region": "shadowisles",
+    "cost": 9,
+    "name": "Погибель",
+    "type": "Заклинание"
+  },
+  "01SI055": {
+    "id": "01SI055",
+    "region": "shadowisles",
+    "cost": 6,
+    "name": "Пожиратель душ",
+    "type": "Боец"
+  },
+  "01SI047": {
+    "id": "01SI047",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Отголоски воспоминаний",
+    "type": "Заклинание"
+  },
+  "02PZ001": {
+    "id": "02PZ001",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Субмуррина",
+    "type": "Боец"
+  },
+  "02PZ010": {
+    "id": "02PZ010",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Опытный дознаватель",
+    "type": "Боец"
+  },
+  "02PZ006": {
+    "id": "02PZ006",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Получай!",
+    "type": "Заклинание"
+  },
+  "02PZ004": {
+    "id": "02PZ004",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Вскрыватель хранилищ",
+    "type": "Заклинание"
+  },
+  "02PZ007": {
+    "id": "02PZ007",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Проницательная дознавательница",
+    "type": "Боец"
+  },
+  "02PZ002": {
+    "id": "02PZ002",
+    "region": "piltoverzaun",
+    "cost": 6,
+    "name": "Главный механик Зеви",
+    "type": "Боец"
+  },
+  "02PZ008": {
+    "id": "02PZ008",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Вай",
+    "type": "Чемпион"
+  },
+  "02PZ009": {
+    "id": "02PZ009",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Цепочка улик",
+    "type": "Заклинание"
+  },
+  "02PZ003": {
+    "id": "02PZ003",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Приоденься!",
+    "type": "Заклинание"
+  },
+  "02PZ008T2": {
+    "id": "02PZ008T2",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Вай",
+    "type": "Чемпион"
+  },
+  "02PZ008T1": {
+    "id": "02PZ008T1",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Вскрыватель хранилищ Вай",
+    "type": "Чемпион"
+  },
+  "02PZ005": {
+    "id": "02PZ005",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Патрульные",
+    "type": "Боец"
+  },
+  "02BW040": {
+    "id": "02BW040",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Черепашья артиллерия",
+    "type": "Боец"
+  },
+  "02BW057": {
+    "id": "02BW057",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Проворный волногон",
+    "type": "Боец"
+  },
+  "02BW041": {
+    "id": "02BW041",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Зверь из глубин",
+    "type": "Боец"
+  },
+  "02BW013": {
+    "id": "02BW013",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Крадущийся головорез",
+    "type": "Боец"
+  },
+  "02BW034": {
+    "id": "02BW034",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Обезьяний истукан",
+    "type": "Боец"
+  },
+  "02BW034T1": {
+    "id": "02BW034T1",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Пороховая обезьяна",
+    "type": "Боец"
+  },
+  "02BW056": {
+    "id": "02BW056",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Пожиратель из глубин",
+    "type": "Боец"
+  },
+  "02BW056T1": {
+    "id": "02BW056T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Хватай-глотай",
+    "type": "Способность"
+  },
+  "02BW060": {
+    "id": "02BW060",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Снайпер-корсар",
+    "type": "Боец"
+  },
+  "02BW011": {
+    "id": "02BW011",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Йордл-жулик",
+    "type": "Боец"
+  },
+  "02BW030": {
+    "id": "02BW030",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Страж затонувших кораблей",
+    "type": "Боец"
+  },
+  "02BW030T2": {
+    "id": "02BW030T2",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Губитель кораблей",
+    "type": "Заклинание"
+  },
+  "02BW030T1": {
+    "id": "02BW030T1",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Спрятанные сокровища",
+    "type": "Заклинание"
+  },
+  "02BW030T4": {
+    "id": "02BW030T4",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Свирепый бронезавр",
+    "type": "Боец"
+  },
+  "02BW030T3": {
+    "id": "02BW030T3",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Яйцо бронезавра",
+    "type": "Заклинание"
+  },
+  "02BW019": {
+    "id": "02BW019",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Пузырьковый мишка",
+    "type": "Боец"
+  },
+  "02BW007": {
+    "id": "02BW007",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Азартный игрок",
+    "type": "Боец"
+  },
+  "02BW014": {
+    "id": "02BW014",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Живые кораллы",
+    "type": "Боец"
+  },
+  "02BW055": {
+    "id": "02BW055",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Надзирательница из \"Ржавых крючьев\"",
+    "type": "Боец"
+  },
+  "02BW017": {
+    "id": "02BW017",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Разносчик цитрусов",
+    "type": "Боец"
+  },
+  "02BW038": {
+    "id": "02BW038",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Шустрая плавунья",
+    "type": "Боец"
+  },
+  "02BW021": {
+    "id": "02BW021",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Шипохвост-охотник",
+    "type": "Боец"
+  },
+  "02BW035": {
+    "id": "02BW035",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Шериф Лариет Роуз",
+    "type": "Боец"
+  },
+  "02BW058": {
+    "id": "02BW058",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Мясник из \"Ржавых крючьев\"",
+    "type": "Боец"
+  },
+  "02BW028": {
+    "id": "02BW028",
+    "region": "bilgewater",
+    "cost": 8,
+    "name": "Король сейсмической волны",
+    "type": "Боец"
+  },
+  "02BW028T1": {
+    "id": "02BW028T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Пушечный обстрел",
+    "type": "Способность"
+  },
+  "02BW037": {
+    "id": "02BW037",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Глубинное око",
+    "type": "Боец"
+  },
+  "02BW008": {
+    "id": "02BW008",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Младший офицер",
+    "type": "Боец"
+  },
+  "02BW008T02": {
+    "id": "02BW008T02",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Младший офицер",
+    "type": "Боец"
+  },
+  "02BW008T01": {
+    "id": "02BW008T01",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Младший офицер",
+    "type": "Боец"
+  },
+  "02BW047": {
+    "id": "02BW047",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Роющие дно",
+    "type": "Боец"
+  },
+  "02BW004": {
+    "id": "02BW004",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Матрос с \"Кошмара\"",
+    "type": "Боец"
+  },
+  "02BW002": {
+    "id": "02BW002",
+    "region": "bilgewater",
+    "cost": 9,
+    "name": "Кошмар",
+    "type": "Боец"
+  },
+  "02BW016": {
+    "id": "02BW016",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Игровой автоматон",
+    "type": "Боец"
+  },
+  "02BW027": {
+    "id": "02BW027",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Охотничий флот",
+    "type": "Боец"
+  },
+  "02BW050": {
+    "id": "02BW050",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Талантливая солистка",
+    "type": "Боец"
+  },
+  "02BW015": {
+    "id": "02BW015",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Сирена",
+    "type": "Боец"
+  },
+  "02BW010": {
+    "id": "02BW010",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Жадный поро",
+    "type": "Боец"
+  },
+  "02BW009": {
+    "id": "02BW009",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Проныра",
+    "type": "Боец"
+  },
+  "02BW005": {
+    "id": "02BW005",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Наемница",
+    "type": "Боец"
+  },
+  "02BW039": {
+    "id": "02BW039",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Охотники на челюстозубов",
+    "type": "Боец"
+  },
+  "02BW006": {
+    "id": "02BW006",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Мистический маг",
+    "type": "Боец"
+  },
+  "02BW036": {
+    "id": "02BW036",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Золотой нарвал",
+    "type": "Боец"
+  },
+  "02BW033": {
+    "id": "02BW033",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Торговец с черного рынка",
+    "type": "Боец"
+  },
+  "02BW060T1": {
+    "id": "02BW060T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Снайпер",
+    "type": "Способность"
+  },
+  "02BW032": {
+    "id": "02BW032",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Гангпланк",
+    "type": "Чемпион"
+  },
+  "02BW032T2": {
+    "id": "02BW032T2",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Аррргумент Гангпланка",
+    "type": "Чемпион"
+  },
+  "02BW032T3": {
+    "id": "02BW032T3",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Гангпланк",
+    "type": "Чемпион"
+  },
+  "02BW032T1": {
+    "id": "02BW032T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Пороховая бочка",
+    "type": "Боец"
+  },
+  "02BW032T4": {
+    "id": "02BW032T4",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Пороховой взрыв",
+    "type": "Способность"
+  },
+  "02BW022": {
+    "id": "02BW022",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Мисс Фортуна",
+    "type": "Чемпион"
+  },
+  "02BW022T3": {
+    "id": "02BW022T3",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Свинцовый дождь Мисс Фортуны",
+    "type": "Чемпион"
+  },
+  "02BW022T2": {
+    "id": "02BW022T2",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Мисс Фортуна",
+    "type": "Чемпион"
+  },
+  "02BW022T4": {
+    "id": "02BW022T4",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Время умирать",
+    "type": "Способность"
+  },
+  "02BW022T1": {
+    "id": "02BW022T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Приветственный выстрел",
+    "type": "Способность"
+  },
+  "02BW046": {
+    "id": "02BW046",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Физз",
+    "type": "Чемпион"
+  },
+  "02BW046T3": {
+    "id": "02BW046T3",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Физз",
+    "type": "Чемпион"
+  },
+  "02BW046T2": {
+    "id": "02BW046T2",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Длиннозуб",
+    "type": "Боец"
+  },
+  "02BW046T1": {
+    "id": "02BW046T1",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Игривый шутник Физза",
+    "type": "Чемпион"
+  },
+  "02BW026": {
+    "id": "02BW026",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Твистед Фэйт",
+    "type": "Чемпион"
+  },
+  "02BW026T5": {
+    "id": "02BW026T5",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Золотая карта",
+    "type": "Способность"
+  },
+  "02BW026T3": {
+    "id": "02BW026T3",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Твистед Фэйт",
+    "type": "Чемпион"
+  },
+  "02BW026T1": {
+    "id": "02BW026T1",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Выбор карты Твистед Фэйта",
+    "type": "Чемпион"
+  },
+  "02BW026T2": {
+    "id": "02BW026T2",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Синяя карта",
+    "type": "Способность"
+  },
+  "02BW026T4": {
+    "id": "02BW026T4",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Красная карта",
+    "type": "Способность"
+  },
+  "02BW053": {
+    "id": "02BW053",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Наутилус",
+    "type": "Чемпион"
+  },
+  "02BW053T2": {
+    "id": "02BW053T2",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Сейсмическая волна Наутилуса",
+    "type": "Чемпион"
+  },
+  "02BW053T1": {
+    "id": "02BW053T1",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Наутилус",
+    "type": "Чемпион"
+  },
+  "02BW061": {
+    "id": "02BW061",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Тузы в рукаве",
+    "type": "Заклинание"
+  },
+  "02BW024": {
+    "id": "02BW024",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Двойные неприятности",
+    "type": "Заклинание"
+  },
+  "02BW003": {
+    "id": "02BW003",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Принуждение",
+    "type": "Заклинание"
+  },
+  "02BW025": {
+    "id": "02BW025",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Ловля на живца",
+    "type": "Заклинание"
+  },
+  "02BW012": {
+    "id": "02BW012",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Еще пороха!",
+    "type": "Заклинание"
+  },
+  "02BW018": {
+    "id": "02BW018",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Аррргумент",
+    "type": "Заклинание"
+  },
+  "02BW048": {
+    "id": "02BW048",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Побег из тюрьмы",
+    "type": "Заклинание"
+  },
+  "02BW043": {
+    "id": "02BW043",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Выбор карты",
+    "type": "Заклинание"
+  },
+  "02BW051": {
+    "id": "02BW051",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Игривый шутник",
+    "type": "Заклинание"
+  },
+  "02BW054": {
+    "id": "02BW054",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Сейсмическая волна",
+    "type": "Заклинание"
+  },
+  "02BW042": {
+    "id": "02BW042",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Слияние разумов",
+    "type": "Заклинание"
+  },
+  "02BW059": {
+    "id": "02BW059",
+    "region": "bilgewater",
+    "cost": 7,
+    "name": "Картечь",
+    "type": "Заклинание"
+  },
+  "02BW023": {
+    "id": "02BW023",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Затонувшие сокровища",
+    "type": "Заклинание"
+  },
+  "02BW031": {
+    "id": "02BW031",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Два по цене одного",
+    "type": "Заклинание"
+  },
+  "02BW029": {
+    "id": "02BW029",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Спасение груза",
+    "type": "Заклинание"
+  },
+  "02BW049": {
+    "id": "02BW049",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Краденые товары",
+    "type": "Заклинание"
+  },
+  "02BW001": {
+    "id": "02BW001",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Вас предупреждали",
+    "type": "Заклинание"
+  },
+  "02BW063": {
+    "id": "02BW063",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Ловкость рук",
+    "type": "Заклинание"
+  },
+  "02BW045": {
+    "id": "02BW045",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Свинцовый дождь",
+    "type": "Заклинание"
+  },
+  "02BW020": {
+    "id": "02BW020",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Предупредительный выстрел",
+    "type": "Заклинание"
+  },
+  "02BW044": {
+    "id": "02BW044",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Сброс балласта",
+    "type": "Заклинание"
+  },
+  "02BW062": {
+    "id": "02BW062",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Островной штурман",
+    "type": "Боец"
+  },
+  "02FR009": {
+    "id": "02FR009",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Наездник на волке",
+    "type": "Боец"
+  },
+  "02FR004": {
+    "id": "02FR004",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Ледяная хватка",
+    "type": "Заклинание"
+  },
+  "02FR002": {
+    "id": "02FR002",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Седжуани",
+    "type": "Чемпион"
+  },
+  "02FR001": {
+    "id": "02FR001",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Дева тлеющих углей",
+    "type": "Боец"
+  },
+  "02FR005": {
+    "id": "02FR005",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Урсин – Странник духов",
+    "type": "Боец"
+  },
+  "02FR005T1": {
+    "id": "02FR005T1",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Буранный урсин",
+    "type": "Боец"
+  },
+  "02FR010": {
+    "id": "02FR010",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Раздел добычи",
+    "type": "Заклинание"
+  },
+  "02FR008": {
+    "id": "02FR008",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Хищный клык",
+    "type": "Боец"
+  },
+  "02FR002T1": {
+    "id": "02FR002T1",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Ярость севера Седжуани",
+    "type": "Чемпион"
+  },
+  "02FR002T3": {
+    "id": "02FR002T3",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Седжуани",
+    "type": "Чемпион"
+  },
+  "02FR007": {
+    "id": "02FR007",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Ярость севера",
+    "type": "Заклинание"
+  },
+  "02FR006": {
+    "id": "02FR006",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Безжалостная налетчица",
+    "type": "Боец"
+  },
+  "02FR003": {
+    "id": "02FR003",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Северное сияние",
+    "type": "Заклинание"
+  },
+  "02NX001": {
+    "id": "02NX001",
+    "region": "noxus",
+    "cost": 8,
+    "name": "Левиафан",
+    "type": "Боец"
+  },
+  "02NX007": {
+    "id": "02NX007",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Свейн",
+    "type": "Чемпион"
+  },
+  "02NX007T2": {
+    "id": "02NX007T2",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Свейн",
+    "type": "Чемпион"
+  },
+  "02NX007T1": {
+    "id": "02NX007T1",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Ненасытная стая Свейна",
+    "type": "Чемпион"
+  },
+  "02NX006": {
+    "id": "02NX006",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Разрушитель городов",
+    "type": "Боец"
+  },
+  "02NX002": {
+    "id": "02NX002",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Аурок Светлорог ",
+    "type": "Боец"
+  },
+  "02NX009": {
+    "id": "02NX009",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Ненасытная стая",
+    "type": "Заклинание"
+  },
+  "02NX004": {
+    "id": "02NX004",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Имперская подрывница",
+    "type": "Боец"
+  },
+  "02NX003": {
+    "id": "02NX003",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ноксианское рвение",
+    "type": "Заклинание"
+  },
+  "02NX010": {
+    "id": "02NX010",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Бронированный мастодонт",
+    "type": "Боец"
+  },
+  "02NX004T1": {
+    "id": "02NX004T1",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Пороховая граната",
+    "type": "Способность"
+  },
+  "02NX008": {
+    "id": "02NX008",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Рука смерти",
+    "type": "Заклинание"
+  },
+  "02NX005": {
+    "id": "02NX005",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Железная баллиста",
+    "type": "Боец"
+  },
+  "02DE003": {
+    "id": "02DE003",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Верный барсук",
+    "type": "Боец"
+  },
+  "02DE008": {
+    "id": "02DE008",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Друг-большерог",
+    "type": "Боец"
+  },
+  "02DE004": {
+    "id": "02DE004",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Клыкастый страж",
+    "type": "Боец"
+  },
+  "02DE006": {
+    "id": "02DE006",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Квинн",
+    "type": "Чемпион"
+  },
+  "02DE006T3": {
+    "id": "02DE006T3",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Слепящий удар Квинн",
+    "type": "Чемпион"
+  },
+  "02DE006T2": {
+    "id": "02DE006T2",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Вэлор",
+    "type": "Боец"
+  },
+  "02DE006T1": {
+    "id": "02DE006T1",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Квинн",
+    "type": "Чемпион"
+  },
+  "02DE009": {
+    "id": "02DE009",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Опытный следопыт",
+    "type": "Боец"
+  },
+  "02DE005": {
+    "id": "02DE005",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Несгибаемая воля",
+    "type": "Заклинание"
+  },
+  "02DE002": {
+    "id": "02DE002",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Слепящий удар",
+    "type": "Заклинание"
+  },
+  "02DE010": {
+    "id": "02DE010",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Женевьева Элмхарт",
+    "type": "Боец"
+  },
+  "02DE007": {
+    "id": "02DE007",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Смелость следопыта",
+    "type": "Заклинание"
+  },
+  "02DE001": {
+    "id": "02DE001",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Массированный удар",
+    "type": "Заклинание"
+  },
+  "02SI005": {
+    "id": "02SI005",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Вытягивание магии",
+    "type": "Заклинание"
+  },
+  "02SI010": {
+    "id": "02SI010",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Странник мертвого сада",
+    "type": "Боец"
+  },
+  "02SI008": {
+    "id": "02SI008",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Маокай",
+    "type": "Чемпион"
+  },
+  "02SI008T3": {
+    "id": "02SI008T3",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Саженец",
+    "type": "Боец"
+  },
+  "02SI008T1": {
+    "id": "02SI008T1",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Вытягивание магии Маокая",
+    "type": "Чемпион"
+  },
+  "02SI008T2": {
+    "id": "02SI008T2",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Маокай",
+    "type": "Чемпион"
+  },
+  "02SI007": {
+    "id": "02SI007",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Шипастая жаба",
+    "type": "Боец"
+  },
+  "02SI003": {
+    "id": "02SI003",
+    "region": "shadowisles",
+    "cost": 8,
+    "name": "Гроза морей",
+    "type": "Боец"
+  },
+  "02SI001": {
+    "id": "02SI001",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Сборщик с Неполяны",
+    "type": "Боец"
+  },
+  "02SI002": {
+    "id": "02SI002",
+    "region": "shadowisles",
+    "cost": 7,
+    "name": "Хищные лозы",
+    "type": "Боец"
+  },
+  "02SI004": {
+    "id": "02SI004",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Оскверненный служитель",
+    "type": "Боец"
+  },
+  "02SI006": {
+    "id": "02SI006",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Дух чащи",
+    "type": "Боец"
+  },
+  "02SI009": {
+    "id": "02SI009",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Бросок саженца",
+    "type": "Заклинание"
+  },
+  "02IO008": {
+    "id": "02IO008",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Звуковая волна",
+    "type": "Заклинание"
+  },
+  "02IO008T1": {
+    "id": "02IO008T1",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Резонирующий удар",
+    "type": "Заклинание"
+  },
+  "02IO005T1": {
+    "id": "02IO005T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Хвост Дракона",
+    "type": "Боец"
+  },
+  "02IO002": {
+    "id": "02IO002",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Чешуя Дракона",
+    "type": "Боец"
+  },
+  "02IO002T1": {
+    "id": "02IO002T1",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Драконья защита",
+    "type": "Заклинание"
+  },
+  "02IO006": {
+    "id": "02IO006",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Ли Син",
+    "type": "Чемпион"
+  },
+  "02IO011": {
+    "id": "02IO011",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Звуковая волна Ли Сина",
+    "type": "Чемпион"
+  },
+  "02IO006T1": {
+    "id": "02IO006T1",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Ли Син",
+    "type": "Чемпион"
+  },
+  "02IO006T3": {
+    "id": "02IO006T3",
+    "region": "ionia",
+    "cost": 0,
+    "name": "Ярость Дракона",
+    "type": "Способность"
+  },
+  "02IO004": {
+    "id": "02IO004",
+    "region": "ionia",
+    "cost": 6,
+    "name": "Рога Дракона",
+    "type": "Боец"
+  },
+  "02IO003": {
+    "id": "02IO003",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Око Дракона",
+    "type": "Боец"
+  },
+  "02IO001": {
+    "id": "02IO001",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Когти Дракона",
+    "type": "Боец"
+  },
+  "02IO003T1": {
+    "id": "02IO003T1",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Дракончик",
+    "type": "Боец"
+  },
+  "02IO005": {
+    "id": "02IO005",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Удар ладонью",
+    "type": "Заклинание"
+  },
+  "02IO010": {
+    "id": "02IO010",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Отступление",
+    "type": "Заклинание"
+  },
+  "02IO007": {
+    "id": "02IO007",
+    "region": "ionia",
+    "cost": 7,
+    "name": "Ярость Дракона",
+    "type": "Заклинание"
+  },
+  "02IO010T1": {
+    "id": "02IO010T1",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Зов долга",
+    "type": "Заклинание"
+  },
+  "02IO009": {
+    "id": "02IO009",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Глубокая медитация",
+    "type": "Заклинание"
+  },
+  "03NX019": {
+    "id": "03NX019",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Охота на слабых",
+    "type": "Заклинание"
+  },
+  "03NX007": {
+    "id": "03NX007",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ривен",
+    "type": "Чемпион"
+  },
+  "03NX008": {
+    "id": "03NX008",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Тяжелый осколок клинка",
+    "type": "Заклинание"
+  },
+  "03NX007T3": {
+    "id": "03NX007T3",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Рукоять меча Ривен",
+    "type": "Чемпион"
+  },
+  "03NX011": {
+    "id": "03NX011",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Клинок Изгнанницы",
+    "type": "Заклинание"
+  },
+  "03NX010": {
+    "id": "03NX010",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Острый осколок клинка",
+    "type": "Заклинание"
+  },
+  "03NX007T1": {
+    "id": "03NX007T1",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ривен",
+    "type": "Чемпион"
+  },
+  "03NX012": {
+    "id": "03NX012",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Сверкающий осколок клинка",
+    "type": "Заклинание"
+  },
+  "03NX006": {
+    "id": "03NX006",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Рукоять меча",
+    "type": "Заклинание"
+  },
+  "03NX002": {
+    "id": "03NX002",
+    "region": "noxus",
+    "cost": 6,
+    "name": "Аррель, следопыт",
+    "type": "Боец"
+  },
+  "03NX018": {
+    "id": "03NX018",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Задержание",
+    "type": "Заклинание"
+  },
+  "03NX009": {
+    "id": "03NX009",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Гневная всадница",
+    "type": "Боец"
+  },
+  "03NX017": {
+    "id": "03NX017",
+    "region": "noxus",
+    "cost": 7,
+    "name": "Кровожадный василиск",
+    "type": "Боец"
+  },
+  "03NX016": {
+    "id": "03NX016",
+    "region": "noxus",
+    "cost": 0,
+    "name": "Зарубка",
+    "type": "Способность"
+  },
+  "03NX015": {
+    "id": "03NX015",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Навыки выживания",
+    "type": "Заклинание"
+  },
+  "03NX014": {
+    "id": "03NX014",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Твердая решимость",
+    "type": "Заклинание"
+  },
+  "03NX003": {
+    "id": "03NX003",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Оруженосец",
+    "type": "Боец"
+  },
+  "03NX001": {
+    "id": "03NX001",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Рунотворец",
+    "type": "Боец"
+  },
+  "03NX005": {
+    "id": "03NX005",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Жестокая охотница",
+    "type": "Боец"
+  },
+  "03BW006": {
+    "id": "03BW006",
+    "region": "bilgewater",
+    "cost": 5,
+    "name": "Джек Победитель",
+    "type": "Боец"
+  },
+  "03BW010": {
+    "id": "03BW010",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Завтрак на воде",
+    "type": "Заклинание"
+  },
+  "03BW005": {
+    "id": "03BW005",
+    "region": "bilgewater",
+    "cost": 8,
+    "name": "Разбитые надежды",
+    "type": "Заклинание"
+  },
+  "03BW004": {
+    "id": "03BW004",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Таам Кенч",
+    "type": "Чемпион"
+  },
+  "03BW004T2": {
+    "id": "03BW004T2",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Жор",
+    "type": "Заклинание"
+  },
+  "03BW004T3": {
+    "id": "03BW004T3",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Таам Кенч",
+    "type": "Чемпион"
+  },
+  "03BW004T4": {
+    "id": "03BW004T4",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Завтрак на воде Таама Кенча",
+    "type": "Чемпион"
+  },
+  "03BW002": {
+    "id": "03BW002",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Светский ящер",
+    "type": "Боец"
+  },
+  "03BW014": {
+    "id": "03BW014",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Обезьянничанье",
+    "type": "Заклинание"
+  },
+  "03BW007": {
+    "id": "03BW007",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Боксминог",
+    "type": "Боец"
+  },
+  "03BW006T1": {
+    "id": "03BW006T1",
+    "region": "bilgewater",
+    "cost": 0,
+    "name": "Корм для рыб",
+    "type": "Заклинание"
+  },
+  "03BW016": {
+    "id": "03BW016",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Брандер",
+    "type": "Заклинание"
+  },
+  "03BW001": {
+    "id": "03BW001",
+    "region": "bilgewater",
+    "cost": 3,
+    "name": "Кровавые доки",
+    "type": "Место силы"
+  },
+  "03BW015": {
+    "id": "03BW015",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Заноза",
+    "type": "Боец"
+  },
+  "03BW003": {
+    "id": "03BW003",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Сомодур",
+    "type": "Боец"
+  },
+  "03BW017": {
+    "id": "03BW017",
+    "region": "bilgewater",
+    "cost": 6,
+    "name": "Верткий бормотун",
+    "type": "Боец"
+  },
+  "03BW008": {
+    "id": "03BW008",
+    "region": "bilgewater",
+    "cost": 2,
+    "name": "Ворожаба",
+    "type": "Боец"
+  },
+  "03BW009": {
+    "id": "03BW009",
+    "region": "bilgewater",
+    "cost": 1,
+    "name": "Вымогательство",
+    "type": "Заклинание"
+  },
+  "03DE010": {
+    "id": "03DE010",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Главная площадь",
+    "type": "Место силы"
+  },
+  "03MT005": {
+    "id": "03MT005",
+    "region": "targon",
+    "cost": 3,
+    "name": "Расходящиеся пути",
+    "type": "Заклинание"
+  },
+  "03FR009": {
+    "id": "03FR009",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Воющая бездна",
+    "type": "Место силы"
+  },
+  "03SI009": {
+    "id": "03SI009",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Хранилища Гелии",
+    "type": "Место силы"
+  },
+  "03MT052": {
+    "id": "03MT052",
+    "region": "targon",
+    "cost": 2,
+    "name": "Звездный родник",
+    "type": "Место силы"
+  },
+  "03IO006": {
+    "id": "03IO006",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Монастырь Хираны",
+    "type": "Место силы"
+  },
+  "03IO016": {
+    "id": "03IO016",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Святилище",
+    "type": "Заклинание"
+  },
+  "03NX013": {
+    "id": "03NX013",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Выжженная земля",
+    "type": "Заклинание"
+  },
+  "03NX004": {
+    "id": "03NX004",
+    "region": "noxus",
+    "cost": 5,
+    "name": "Арена Нокскраи",
+    "type": "Место силы"
+  },
+  "03MT005T2": {
+    "id": "03MT005T2",
+    "region": "targon",
+    "cost": 3,
+    "name": "Путь разрушений",
+    "type": "Заклинание"
+  },
+  "03MT005T1": {
+    "id": "03MT005T1",
+    "region": "targon",
+    "cost": 3,
+    "name": "Путь открытий",
+    "type": "Заклинание"
+  },
+  "03DE004": {
+    "id": "03DE004",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Капитан Аррика",
+    "type": "Боец"
+  },
+  "03DE004T1": {
+    "id": "03DE004T1",
+    "region": "demacia",
+    "cost": 0,
+    "name": "Захват",
+    "type": "Способность"
+  },
+  "03IO005": {
+    "id": "03IO005",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Возвращение домой",
+    "type": "Заклинание"
+  },
+  "03SI008": {
+    "id": "03SI008",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Крах",
+    "type": "Заклинание"
+  },
+  "03MT064": {
+    "id": "03MT064",
+    "region": "targon",
+    "cost": 5,
+    "name": "Вершина Таргона",
+    "type": "Место силы"
+  },
+  "03PZ001": {
+    "id": "03PZ001",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Пилтоверский университет",
+    "type": "Место силы"
+  },
+  "03FR003": {
+    "id": "03FR003",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Смотрящее",
+    "type": "Боец"
+  },
+  "03FR003T3": {
+    "id": "03FR003T3",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Испепеляющий луч",
+    "type": "Способность"
+  },
+  "03FR003T1": {
+    "id": "03FR003T1",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Разрушающий луч",
+    "type": "Способность"
+  },
+  "03MT079": {
+    "id": "03MT079",
+    "region": "targon",
+    "cost": 2,
+    "name": "Звездный сорванец",
+    "type": "Боец"
+  },
+  "03MT015": {
+    "id": "03MT015",
+    "region": "targon",
+    "cost": 2,
+    "name": "Узрите бесконечность",
+    "type": "Заклинание"
+  },
+  "03MT018": {
+    "id": "03MT018",
+    "region": "targon",
+    "cost": 2,
+    "name": "Гонец",
+    "type": "Боец"
+  },
+  "03MT034": {
+    "id": "03MT034",
+    "region": "targon",
+    "cost": 0,
+    "name": "Змей",
+    "type": "Боец"
+  },
+  "03MT083": {
+    "id": "03MT083",
+    "region": "targon",
+    "cost": 8,
+    "name": "Бессмертный Огонь",
+    "type": "Боец"
+  },
+  "03MT004": {
+    "id": "03MT004",
+    "region": "targon",
+    "cost": 0,
+    "name": "Лунное серебро",
+    "type": "Заклинание"
+  },
+  "03MT037": {
+    "id": "03MT037",
+    "region": "targon",
+    "cost": 10,
+    "name": "Бич Небес",
+    "type": "Боец"
+  },
+  "03MT059": {
+    "id": "03MT059",
+    "region": "targon",
+    "cost": 6,
+    "name": "Золотая сестра",
+    "type": "Боец"
+  },
+  "03MT053": {
+    "id": "03MT053",
+    "region": "targon",
+    "cost": 2,
+    "name": "Лунный свет",
+    "type": "Заклинание"
+  },
+  "03MT032": {
+    "id": "03MT032",
+    "region": "targon",
+    "cost": 4,
+    "name": "Рисунок созвездий",
+    "type": "Заклинание"
+  },
+  "03MT024": {
+    "id": "03MT024",
+    "region": "targon",
+    "cost": 9,
+    "name": "Сверхновая",
+    "type": "Заклинание"
+  },
+  "03MT066": {
+    "id": "03MT066",
+    "region": "targon",
+    "cost": 7,
+    "name": "Космическое вдохновение",
+    "type": "Заклинание"
+  },
+  "03MT077": {
+    "id": "03MT077",
+    "region": "targon",
+    "cost": 10,
+    "name": "Живые легенды",
+    "type": "Заклинание"
+  },
+  "03MT010": {
+    "id": "03MT010",
+    "region": "targon",
+    "cost": 7,
+    "name": "Разрушитель",
+    "type": "Боец"
+  },
+  "03MT070": {
+    "id": "03MT070",
+    "region": "targon",
+    "cost": 4,
+    "name": "Пилигрим",
+    "type": "Боец"
+  },
+  "03MT049": {
+    "id": "03MT049",
+    "region": "targon",
+    "cost": 5,
+    "name": "Метеоритный дождь",
+    "type": "Заклинание"
+  },
+  "03MT043": {
+    "id": "03MT043",
+    "region": "targon",
+    "cost": 6,
+    "name": "Падающая комета",
+    "type": "Заклинание"
+  },
+  "03MT022": {
+    "id": "03MT022",
+    "region": "targon",
+    "cost": 9,
+    "name": "Пожиратель миров",
+    "type": "Боец"
+  },
+  "03MT078": {
+    "id": "03MT078",
+    "region": "targon",
+    "cost": 8,
+    "name": "Космические лучи",
+    "type": "Заклинание"
+  },
+  "03MT065": {
+    "id": "03MT065",
+    "region": "targon",
+    "cost": 1,
+    "name": "Равноденствие",
+    "type": "Заклинание"
+  },
+  "03MT050": {
+    "id": "03MT050",
+    "region": "targon",
+    "cost": 5,
+    "name": "Воин",
+    "type": "Боец"
+  },
+  "03MT011": {
+    "id": "03MT011",
+    "region": "targon",
+    "cost": 3,
+    "name": "Удар полумесяца",
+    "type": "Заклинание"
+  },
+  "03MT095": {
+    "id": "03MT095",
+    "region": "targon",
+    "cost": 3,
+    "name": "Ловкач",
+    "type": "Боец"
+  },
+  "03MT059T1": {
+    "id": "03MT059T1",
+    "region": "targon",
+    "cost": 6,
+    "name": "Серебряная сестра",
+    "type": "Боец"
+  },
+  "03MT090": {
+    "id": "03MT090",
+    "region": "targon",
+    "cost": 1,
+    "name": "Тур",
+    "type": "Боец"
+  },
+  "03MT073": {
+    "id": "03MT073",
+    "region": "targon",
+    "cost": 1,
+    "name": "Лунари – вестница заката",
+    "type": "Боец"
+  },
+  "03MT073T1": {
+    "id": "03MT073T1",
+    "region": "targon",
+    "cost": 1,
+    "name": "Пыльца цветка заката",
+    "type": "Заклинание"
+  },
+  "03MT001": {
+    "id": "03MT001",
+    "region": "targon",
+    "cost": 5,
+    "name": "Крылатые прохвостики",
+    "type": "Боец"
+  },
+  "03MT060": {
+    "id": "03MT060",
+    "region": "targon",
+    "cost": 4,
+    "name": "Крепкий защитник",
+    "type": "Боец"
+  },
+  "03MT033": {
+    "id": "03MT033",
+    "region": "targon",
+    "cost": 8,
+    "name": "Дедушка Румул",
+    "type": "Боец"
+  },
+  "03MT021": {
+    "id": "03MT021",
+    "region": "targon",
+    "cost": 8,
+    "name": "Раскалывающие разум",
+    "type": "Боец"
+  },
+  "03MT056": {
+    "id": "03MT056",
+    "region": "targon",
+    "cost": 2,
+    "name": "Диана",
+    "type": "Чемпион"
+  },
+  "03MT056T1": {
+    "id": "03MT056T1",
+    "region": "targon",
+    "cost": 2,
+    "name": "Диана",
+    "type": "Чемпион"
+  },
+  "03MT056T2": {
+    "id": "03MT056T2",
+    "region": "targon",
+    "cost": 2,
+    "name": "Бледный каскад Дианы",
+    "type": "Чемпион"
+  },
+  "03MT067": {
+    "id": "03MT067",
+    "region": "targon",
+    "cost": 4,
+    "name": "Кристальный козерог",
+    "type": "Боец"
+  },
+  "03MT092": {
+    "id": "03MT092",
+    "region": "targon",
+    "cost": 2,
+    "name": "Горный козел",
+    "type": "Боец"
+  },
+  "03MT055": {
+    "id": "03MT055",
+    "region": "targon",
+    "cost": 3,
+    "name": "Сорака",
+    "type": "Чемпион"
+  },
+  "03MT055T1": {
+    "id": "03MT055T1",
+    "region": "targon",
+    "cost": 3,
+    "name": "Сорака",
+    "type": "Чемпион"
+  },
+  "03MT055T2": {
+    "id": "03MT055T2",
+    "region": "targon",
+    "cost": 3,
+    "name": "Желание Сораки",
+    "type": "Чемпион"
+  },
+  "03MT048": {
+    "id": "03MT048",
+    "region": "targon",
+    "cost": 1,
+    "name": "Дарительница",
+    "type": "Боец"
+  },
+  "03MT063": {
+    "id": "03MT063",
+    "region": "targon",
+    "cost": 5,
+    "name": "Лунная сновидица",
+    "type": "Боец"
+  },
+  "03MT006": {
+    "id": "03MT006",
+    "region": "targon",
+    "cost": 6,
+    "name": "Инвиолус Вокс",
+    "type": "Боец"
+  },
+  "03MT054": {
+    "id": "03MT054",
+    "region": "targon",
+    "cost": 4,
+    "name": "Леона",
+    "type": "Чемпион"
+  },
+  "03MT054T2": {
+    "id": "03MT054T2",
+    "region": "targon",
+    "cost": 5,
+    "name": "Утренний свет Леоны",
+    "type": "Чемпион"
+  },
+  "03MT054T3": {
+    "id": "03MT054T3",
+    "region": "targon",
+    "cost": 0,
+    "name": "Солнечная вспышка",
+    "type": "Способность"
+  },
+  "03MT054T1": {
+    "id": "03MT054T1",
+    "region": "targon",
+    "cost": 4,
+    "name": "Леона",
+    "type": "Чемпион"
+  },
+  "03MT014": {
+    "id": "03MT014",
+    "region": "targon",
+    "cost": 2,
+    "name": "Драконья вестница",
+    "type": "Боец"
+  },
+  "03MT058": {
+    "id": "03MT058",
+    "region": "targon",
+    "cost": 4,
+    "name": "Тарик",
+    "type": "Чемпион"
+  },
+  "03MT098": {
+    "id": "03MT098",
+    "region": "targon",
+    "cost": 2,
+    "name": "Солнечная бодрость",
+    "type": "Заклинание"
+  },
+  "03MT040": {
+    "id": "03MT040",
+    "region": "targon",
+    "cost": 2,
+    "name": "Светулек",
+    "type": "Боец"
+  },
+  "03MT085": {
+    "id": "03MT085",
+    "region": "targon",
+    "cost": 2,
+    "name": "Тишина",
+    "type": "Заклинание"
+  },
+  "03MT001T1": {
+    "id": "03MT001T1",
+    "region": "targon",
+    "cost": 0,
+    "name": "Проделки",
+    "type": "Способность"
+  },
+  "03MT075": {
+    "id": "03MT075",
+    "region": "targon",
+    "cost": 3,
+    "name": "Жрица Лунари",
+    "type": "Боец"
+  },
+  "03MT020": {
+    "id": "03MT020",
+    "region": "targon",
+    "cost": 5,
+    "name": "Великолепный звезднорог",
+    "type": "Боец"
+  },
+  "03MT071": {
+    "id": "03MT071",
+    "region": "targon",
+    "cost": 2,
+    "name": "Пилигрим Тиари",
+    "type": "Боец"
+  },
+  "03MT002": {
+    "id": "03MT002",
+    "region": "targon",
+    "cost": 15,
+    "name": "Небо рушится на землю",
+    "type": "Заклинание"
+  },
+  "03MT009": {
+    "id": "03MT009",
+    "region": "targon",
+    "cost": 1,
+    "name": "Зои",
+    "type": "Чемпион"
+  },
+  "03MT009T2": {
+    "id": "03MT009T2",
+    "region": "targon",
+    "cost": 2,
+    "name": "Тихий час Зои",
+    "type": "Чемпион"
+  },
+  "03MT009T1": {
+    "id": "03MT009T1",
+    "region": "targon",
+    "cost": 1,
+    "name": "Зои",
+    "type": "Чемпион"
+  },
+  "03MT086": {
+    "id": "03MT086",
+    "region": "targon",
+    "cost": 1,
+    "name": "Художница-чудачка",
+    "type": "Боец"
+  },
+  "03MT087": {
+    "id": "03MT087",
+    "region": "targon",
+    "cost": 10,
+    "name": "Аурелион Сол",
+    "type": "Чемпион"
+  },
+  "03MT087T1": {
+    "id": "03MT087T1",
+    "region": "targon",
+    "cost": 10,
+    "name": "Аурелион Сол",
+    "type": "Чемпион"
+  },
+  "03MT087T2": {
+    "id": "03MT087T2",
+    "region": "targon",
+    "cost": 15,
+    "name": "Небо рушится на землю Аурелиона Сола",
+    "type": "Чемпион"
+  },
+  "03MT019": {
+    "id": "03MT019",
+    "region": "targon",
+    "cost": 4,
+    "name": "Бастион",
+    "type": "Заклинание"
+  },
+  "03MT013": {
+    "id": "03MT013",
+    "region": "targon",
+    "cost": 5,
+    "name": "Лунная болезнь",
+    "type": "Заклинание"
+  },
+  "03MT008": {
+    "id": "03MT008",
+    "region": "targon",
+    "cost": 3,
+    "name": "Желание",
+    "type": "Заклинание"
+  },
+  "03MT023": {
+    "id": "03MT023",
+    "region": "targon",
+    "cost": 6,
+    "name": "Солнечная вспышка",
+    "type": "Заклинание"
+  },
+  "03MT096": {
+    "id": "03MT096",
+    "region": "targon",
+    "cost": 3,
+    "name": "Жрица Солари",
+    "type": "Боец"
+  },
+  "03MT045": {
+    "id": "03MT045",
+    "region": "targon",
+    "cost": 4,
+    "name": "Астральная защита",
+    "type": "Заклинание"
+  },
+  "03MT080": {
+    "id": "03MT080",
+    "region": "targon",
+    "cost": 3,
+    "name": "Хранитель родника",
+    "type": "Боец"
+  },
+  "03MT080T1": {
+    "id": "03MT080T1",
+    "region": "targon",
+    "cost": 1,
+    "name": "Целебная вода",
+    "type": "Заклинание"
+  },
+  "03MT042": {
+    "id": "03MT042",
+    "region": "targon",
+    "cost": 1,
+    "name": "Маленькая хитрюга",
+    "type": "Заклинание"
+  },
+  "03MT057": {
+    "id": "03MT057",
+    "region": "targon",
+    "cost": 4,
+    "name": "Солнечный кузнец Солари",
+    "type": "Боец"
+  },
+  "03MT091": {
+    "id": "03MT091",
+    "region": "targon",
+    "cost": 2,
+    "name": "Крутая звездная карта",
+    "type": "Заклинание"
+  },
+  "03MT044": {
+    "id": "03MT044",
+    "region": "targon",
+    "cost": 6,
+    "name": "Солнечный защитник",
+    "type": "Боец"
+  },
+  "03MT041": {
+    "id": "03MT041",
+    "region": "targon",
+    "cost": 3,
+    "name": "Самоцветный мудрец",
+    "type": "Боец"
+  },
+  "03MT028": {
+    "id": "03MT028",
+    "region": "targon",
+    "cost": 2,
+    "name": "Щитоносец Солари",
+    "type": "Боец"
+  },
+  "03MT072": {
+    "id": "03MT072",
+    "region": "targon",
+    "cost": 5,
+    "name": "Огнедышащий исполин",
+    "type": "Боец"
+  },
+  "03MT025": {
+    "id": "03MT025",
+    "region": "targon",
+    "cost": 4,
+    "name": "Осколки Горы",
+    "type": "Заклинание"
+  },
+  "03MT017": {
+    "id": "03MT017",
+    "region": "targon",
+    "cost": 1,
+    "name": "Знак Гонца",
+    "type": "Заклинание"
+  },
+  "03MT051": {
+    "id": "03MT051",
+    "region": "targon",
+    "cost": 2,
+    "name": "Напутственное касание",
+    "type": "Заклинание"
+  },
+  "03MT012": {
+    "id": "03MT012",
+    "region": "targon",
+    "cost": 10,
+    "name": "Судия вершины",
+    "type": "Боец"
+  },
+  "03MT094": {
+    "id": "03MT094",
+    "region": "targon",
+    "cost": 2,
+    "name": "Разведчица Лунари",
+    "type": "Боец"
+  },
+  "03MT076": {
+    "id": "03MT076",
+    "region": "targon",
+    "cost": 4,
+    "name": "Горный гадатель",
+    "type": "Боец"
+  },
+  "03MT100": {
+    "id": "03MT100",
+    "region": "targon",
+    "cost": 7,
+    "name": "Дракон затмения",
+    "type": "Боец"
+  },
+  "03MT058T1": {
+    "id": "03MT058T1",
+    "region": "targon",
+    "cost": 4,
+    "name": "Тарик",
+    "type": "Чемпион"
+  },
+  "03MT058T2": {
+    "id": "03MT058T2",
+    "region": "targon",
+    "cost": 5,
+    "name": "Благословение Таргона Тарика",
+    "type": "Чемпион"
+  },
+  "03MT029": {
+    "id": "03MT029",
+    "region": "targon",
+    "cost": 1,
+    "name": "Пастушка звезд",
+    "type": "Боец"
+  },
+  "03MT092T1": {
+    "id": "03MT092T1",
+    "region": "targon",
+    "cost": 1,
+    "name": "Самоцвет",
+    "type": "Заклинание"
+  },
+  "03MT062": {
+    "id": "03MT062",
+    "region": "targon",
+    "cost": 3,
+    "name": "Сияющая хохотушка",
+    "type": "Боец"
+  },
+  "03MT082": {
+    "id": "03MT082",
+    "region": "targon",
+    "cost": 5,
+    "name": "Утренний свет",
+    "type": "Заклинание"
+  },
+  "03MT047": {
+    "id": "03MT047",
+    "region": "targon",
+    "cost": 6,
+    "name": "Сигнус, лунный следопыт",
+    "type": "Боец"
+  },
+  "03MT038": {
+    "id": "03MT038",
+    "region": "targon",
+    "cost": 4,
+    "name": "Защитник белого пламени",
+    "type": "Боец"
+  },
+  "03MT081": {
+    "id": "03MT081",
+    "region": "targon",
+    "cost": 5,
+    "name": "Скалолазы",
+    "type": "Боец"
+  },
+  "03MT007": {
+    "id": "03MT007",
+    "region": "targon",
+    "cost": 3,
+    "name": "Малыш-звезднорог",
+    "type": "Боец"
+  },
+  "03MT026": {
+    "id": "03MT026",
+    "region": "targon",
+    "cost": 5,
+    "name": "Рахвун, Копье полудня",
+    "type": "Боец"
+  },
+  "03MT093": {
+    "id": "03MT093",
+    "region": "targon",
+    "cost": 3,
+    "name": "Лови звезду",
+    "type": "Заклинание"
+  },
+  "03MT110": {
+    "id": "03MT110",
+    "region": "targon",
+    "cost": 5,
+    "name": "Не стой на пути",
+    "type": "Заклинание"
+  },
+  "03MT003": {
+    "id": "03MT003",
+    "region": "targon",
+    "cost": 3,
+    "name": "Драконье гнездо",
+    "type": "Заклинание"
+  },
+  "03MT030": {
+    "id": "03MT030",
+    "region": "targon",
+    "cost": 4,
+    "name": "Звездочет",
+    "type": "Боец"
+  },
+  "03MT088": {
+    "id": "03MT088",
+    "region": "targon",
+    "cost": 1,
+    "name": "Воин Солари",
+    "type": "Боец"
+  },
+  "03MT089": {
+    "id": "03MT089",
+    "region": "targon",
+    "cost": 3,
+    "name": "Страж полумесяца",
+    "type": "Боец"
+  },
+  "03MT027": {
+    "id": "03MT027",
+    "region": "targon",
+    "cost": 3,
+    "name": "Клинок зенита",
+    "type": "Заклинание"
+  },
+  "03MT084": {
+    "id": "03MT084",
+    "region": "targon",
+    "cost": 5,
+    "name": "Сотворение звезд",
+    "type": "Заклинание"
+  },
+  "03MT016": {
+    "id": "03MT016",
+    "region": "targon",
+    "cost": 2,
+    "name": "Трогательный топотун",
+    "type": "Боец"
+  },
+  "03MT074": {
+    "id": "03MT074",
+    "region": "targon",
+    "cost": 2,
+    "name": "Тихий час",
+    "type": "Заклинание"
+  },
+  "03MT035": {
+    "id": "03MT035",
+    "region": "targon",
+    "cost": 2,
+    "name": "Бледный каскад",
+    "type": "Заклинание"
+  },
+  "03MT003T1": {
+    "id": "03MT003T1",
+    "region": "targon",
+    "cost": 3,
+    "name": "Проклюнувшееся яйцо",
+    "type": "Заклинание"
+  },
+  "03MT003T2": {
+    "id": "03MT003T2",
+    "region": "targon",
+    "cost": 3,
+    "name": "Разбитое яйцо",
+    "type": "Заклинание"
+  },
+  "03MT036": {
+    "id": "03MT036",
+    "region": "targon",
+    "cost": 5,
+    "name": "Благословение Таргона",
+    "type": "Заклинание"
+  },
+  "03MT039": {
+    "id": "03MT039",
+    "region": "targon",
+    "cost": 1,
+    "name": "Летучий поро",
+    "type": "Боец"
+  },
+  "03PZ019": {
+    "id": "03PZ019",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Потрепанный поробот",
+    "type": "Боец"
+  },
+  "03PZ005": {
+    "id": "03PZ005",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Расстрелятор",
+    "type": "Боец"
+  },
+  "03PZ004": {
+    "id": "03PZ004",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Луч смерти – Mk 1",
+    "type": "Заклинание"
+  },
+  "03PZ004T2": {
+    "id": "03PZ004T2",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Луч смерти – Mk 3",
+    "type": "Заклинание"
+  },
+  "03PZ004T1": {
+    "id": "03PZ004T1",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Луч смерти – Mk 2",
+    "type": "Заклинание"
+  },
+  "03PZ003": {
+    "id": "03PZ003",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Виктор",
+    "type": "Чемпион"
+  },
+  "03PZ003T1": {
+    "id": "03PZ003T1",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Виктор",
+    "type": "Чемпион"
+  },
+  "03PZ003T15": {
+    "id": "03PZ003T15",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Луч смерти Виктора – Mk 1",
+    "type": "Чемпион"
+  },
+  "03PZ003T11": {
+    "id": "03PZ003T11",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Улучшение хекстекового ядра",
+    "type": "Заклинание"
+  },
+  "03PZ010": {
+    "id": "03PZ010",
+    "region": "piltoverzaun",
+    "cost": 5,
+    "name": "Механическая подражательница",
+    "type": "Боец"
+  },
+  "03PZ022": {
+    "id": "03PZ022",
+    "region": "piltoverzaun",
+    "cost": 8,
+    "name": "По полной",
+    "type": "Заклинание"
+  },
+  "03PZ014": {
+    "id": "03PZ014",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Продуманные творения",
+    "type": "Заклинание"
+  },
+  "03PZ013": {
+    "id": "03PZ013",
+    "region": "piltoverzaun",
+    "cost": 2,
+    "name": "Итерационное улучшение",
+    "type": "Заклинание"
+  },
+  "03PZ012": {
+    "id": "03PZ012",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Техноманьяк",
+    "type": "Боец"
+  },
+  "03PZ020": {
+    "id": "03PZ020",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Хекстековое горнило",
+    "type": "Место силы"
+  },
+  "03PZ016": {
+    "id": "03PZ016",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Зажигание",
+    "type": "Заклинание"
+  },
+  "03PZ002": {
+    "id": "03PZ002",
+    "region": "piltoverzaun",
+    "cost": 3,
+    "name": "Мяундроид",
+    "type": "Боец"
+  },
+  "03PZ011": {
+    "id": "03PZ011",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Афтершок",
+    "type": "Заклинание"
+  },
+  "03PZ017": {
+    "id": "03PZ017",
+    "region": "piltoverzaun",
+    "cost": 4,
+    "name": "Трехлучевой невероятор",
+    "type": "Заклинание"
+  },
+  "03PZ018": {
+    "id": "03PZ018",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Поропушка",
+    "type": "Заклинание"
+  },
+  "03SI004": {
+    "id": "03SI004",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Крадущиеся тени",
+    "type": "Заклинание"
+  },
+  "03SI001": {
+    "id": "03SI001",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Сумрачные ловцы",
+    "type": "Боец"
+  },
+  "03SI012": {
+    "id": "03SI012",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Без права прохода",
+    "type": "Заклинание"
+  },
+  "03SI014": {
+    "id": "03SI014",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Подступающий сумрак",
+    "type": "Заклинание"
+  },
+  "03SI016": {
+    "id": "03SI016",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Добиться своего",
+    "type": "Заклинание"
+  },
+  "03SI016T1": {
+    "id": "03SI016T1",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Пакуй вещи",
+    "type": "Заклинание"
+  },
+  "03SI007": {
+    "id": "03SI007",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Покров тьмы",
+    "type": "Заклинание"
+  },
+  "03SI013": {
+    "id": "03SI013",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Восставший туман",
+    "type": "Заклинание"
+  },
+  "03SI005": {
+    "id": "03SI005",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Ноктюрн",
+    "type": "Чемпион"
+  },
+  "03SI005T3": {
+    "id": "03SI005T3",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Невыразимый ужас Ноктюрна",
+    "type": "Чемпион"
+  },
+  "03SI005T1": {
+    "id": "03SI005T1",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Ноктюрн",
+    "type": "Чемпион"
+  },
+  "03SI006": {
+    "id": "03SI006",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Служитель рока",
+    "type": "Боец"
+  },
+  "03SI015": {
+    "id": "03SI015",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Докучливый дух",
+    "type": "Боец"
+  },
+  "03SI006T1": {
+    "id": "03SI006T1",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Мучения",
+    "type": "Способность"
+  },
+  "03SI003": {
+    "id": "03SI003",
+    "region": "shadowisles",
+    "cost": 1,
+    "name": "Жуткий наблюдатель",
+    "type": "Боец"
+  },
+  "03SI002": {
+    "id": "03SI002",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Невыразимый ужас",
+    "type": "Заклинание"
+  },
+  "03SI010": {
+    "id": "03SI010",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Сумрачный скакун",
+    "type": "Боец"
+  },
+  "03DE008": {
+    "id": "03DE008",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Лейтенант из Драконьей стражи",
+    "type": "Боец"
+  },
+  "03DE001": {
+    "id": "03DE001",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Противостояние",
+    "type": "Заклинание"
+  },
+  "03DE015": {
+    "id": "03DE015",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Каменная смирительница",
+    "type": "Боец"
+  },
+  "03DE006": {
+    "id": "03DE006",
+    "region": "demacia",
+    "cost": 5,
+    "name": "Кричащий дракон",
+    "type": "Боец"
+  },
+  "03DE002": {
+    "id": "03DE002",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Огненный удар",
+    "type": "Заклинание"
+  },
+  "03DE011": {
+    "id": "03DE011",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Шивана",
+    "type": "Чемпион"
+  },
+  "03DE011T1": {
+    "id": "03DE011T1",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Шивана-дракон",
+    "type": "Чемпион"
+  },
+  "03DE011T2": {
+    "id": "03DE011T2",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Противостояние Шиваны",
+    "type": "Чемпион"
+  },
+  "03DE003": {
+    "id": "03DE003",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Дозорная из Драконьей стражи",
+    "type": "Боец"
+  },
+  "03DE013": {
+    "id": "03DE013",
+    "region": "demacia",
+    "cost": 7,
+    "name": "Мать-драконица",
+    "type": "Боец"
+  },
+  "03DE005": {
+    "id": "03DE005",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Ученый-яйцевед",
+    "type": "Боец"
+  },
+  "03DE007": {
+    "id": "03DE007",
+    "region": "demacia",
+    "cost": 9,
+    "name": "Кадрегрин Сжигатель",
+    "type": "Боец"
+  },
+  "03DE012": {
+    "id": "03DE012",
+    "region": "demacia",
+    "cost": 8,
+    "name": "Во имя павших",
+    "type": "Заклинание"
+  },
+  "03DE014": {
+    "id": "03DE014",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Бдительность",
+    "type": "Заклинание"
+  },
+  "03IO017": {
+    "id": "03IO017",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Пикс!",
+    "type": "Боец"
+  },
+  "03IO008": {
+    "id": "03IO008",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Причуда",
+    "type": "Заклинание"
+  },
+  "03IO008T1": {
+    "id": "03IO008T1",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Белка",
+    "type": "Боец"
+  },
+  "03IO001": {
+    "id": "03IO001",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Лисичка с цветочком",
+    "type": "Боец"
+  },
+  "03IO019": {
+    "id": "03IO019",
+    "region": "ionia",
+    "cost": 10,
+    "name": "Сила воли",
+    "type": "Заклинание"
+  },
+  "03IO002": {
+    "id": "03IO002",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Лулу",
+    "type": "Чемпион"
+  },
+  "03IO002T4": {
+    "id": "03IO002T4",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Помоги, Пикс!",
+    "type": "Заклинание"
+  },
+  "03IO002T5": {
+    "id": "03IO002T5",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Причуда Лулу",
+    "type": "Чемпион"
+  },
+  "03IO002T1": {
+    "id": "03IO002T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Лулу",
+    "type": "Чемпион"
+  },
+  "03IO011": {
+    "id": "03IO011",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Белка-боксер",
+    "type": "Боец"
+  },
+  "03IO009": {
+    "id": "03IO009",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Вкусные создания",
+    "type": "Боец"
+  },
+  "03IO003": {
+    "id": "03IO003",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Проводник с Поляны",
+    "type": "Боец"
+  },
+  "03IO007": {
+    "id": "03IO007",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Тревор Соннопупс",
+    "type": "Боец"
+  },
+  "03IO007T1": {
+    "id": "03IO007T1",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Мямлик",
+    "type": "Боец"
+  },
+  "03IO010": {
+    "id": "03IO010",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Юная ведьмочка",
+    "type": "Боец"
+  },
+  "03IO020": {
+    "id": "03IO020",
+    "region": "ionia",
+    "cost": 2,
+    "name": "Отменикус!",
+    "type": "Заклинание"
+  },
+  "03IO022": {
+    "id": "03IO022",
+    "region": "ionia",
+    "cost": 5,
+    "name": "Вперед!",
+    "type": "Заклинание"
+  },
+  "03IO018": {
+    "id": "03IO018",
+    "region": "ionia",
+    "cost": 3,
+    "name": "Заботливый пушистик",
+    "type": "Боец"
+  },
+  "03FR020": {
+    "id": "03FR020",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Залы Шрамов",
+    "type": "Место силы"
+  },
+  "03FR007": {
+    "id": "03FR007",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Тролль-следопыт",
+    "type": "Боец"
+  },
+  "03FR004": {
+    "id": "03FR004",
+    "region": "freljord",
+    "cost": 7,
+    "name": "Бодрящий рык",
+    "type": "Заклинание"
+  },
+  "03FR017": {
+    "id": "03FR017",
+    "region": "freljord",
+    "cost": 6,
+    "name": "Пророчица древних",
+    "type": "Боец"
+  },
+  "03FR006": {
+    "id": "03FR006",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Трандл",
+    "type": "Чемпион"
+  },
+  "03FR006T2": {
+    "id": "03FR006T2",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Трандл",
+    "type": "Чемпион"
+  },
+  "03FR006T3": {
+    "id": "03FR006T3",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Льдотрясение Трандла",
+    "type": "Чемпион"
+  },
+  "03FR006T1": {
+    "id": "03FR006T1",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Ледяной столп",
+    "type": "Боец"
+  },
+  "03FR008": {
+    "id": "03FR008",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Льдотрясение",
+    "type": "Заклинание"
+  },
+  "03FR002": {
+    "id": "03FR002",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Тролльский напев",
+    "type": "Заклинание"
+  },
+  "03FR011": {
+    "id": "03FR011",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Узгар Древний",
+    "type": "Боец"
+  },
+  "03FR005": {
+    "id": "03FR005",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Тролль-опустошитель",
+    "type": "Боец"
+  },
+  "03FR018": {
+    "id": "03FR018",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Зов природы",
+    "type": "Заклинание"
+  },
+  "03FR010": {
+    "id": "03FR010",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Лица предков",
+    "type": "Боец"
+  },
+  "03FR019": {
+    "id": "03FR019",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Голоса Древних",
+    "type": "Заклинание"
+  },
+  "03FR022": {
+    "id": "03FR022",
+    "region": "freljord",
+    "cost": 12,
+    "name": "Чувствуешь драйв?",
+    "type": "Заклинание"
+  }
+}
