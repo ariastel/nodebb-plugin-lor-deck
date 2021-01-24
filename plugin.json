@@ -1,5 +1,8 @@
 {
   "id": "nodebb-plugin-lor-deck",
+	"name": "NodeBB LoR Deck",
+	"description": "NodeBB Plugin that converts LoR Deck code to viewable deck.",
+	"url": "https://github.com/ariastel/nodebb-plugin-lor-deck",
   "library": "./library.js",
   "hooks": [
     {
