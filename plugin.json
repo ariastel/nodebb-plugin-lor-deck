@@ -1,13 +1,17 @@
 {
   "id": "nodebb-plugin-lor-deck",
-	"name": "NodeBB LoR Deck",
-	"description": "NodeBB Plugin that converts LoR Deck code to viewable deck.",
-	"url": "https://github.com/ariastel/nodebb-plugin-lor-deck",
+  "name": "NodeBB LoR Deck",
+  "description": "NodeBB Plugin that converts LoR Deck code to viewable deck.",
+  "url": "https://github.com/ariastel/nodebb-plugin-lor-deck",
   "library": "./library.js",
   "hooks": [
     {
       "hook": "static:app.load",
       "method": "init"
+    },
+    {
+      "hook": "filter:admin.header.build",
+      "method": "addMenuItem"
     },
     {
       "hook": "filter:composer.formatting",
@@ -25,13 +29,17 @@
     }
   ],
   "staticDirs": {
-    "static": "static",
-    "decks": "decks"
+    "static": "static"
   },
   "less": [
     "static/style.less"
   ],
   "scripts": [
-    "static/main.js"
-  ]
+    "lib/main.js"
+  ],
+  "acpScripts": [
+    "lib/admin.js"
+  ],
+  "templates": "templates",
+  "settingsRoute": "/admin/plugins/lor-deck"
 }
