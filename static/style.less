@@ -12,7 +12,17 @@
   padding-left: 0;
 
   &__section {
-    flex: 0 32%;
+    flex: 1;
+    margin-right: 16px;
+    list-style-type: none !important;
+
+    &__name {
+      margin-bottom: 8px;
+      text-align: center;
+      font-size: 18px;
+      font-family: BeaufortforLOL-Regular, sans-serif;
+      font-weight: bold;
+    }
   }
 }
 
@@ -35,6 +45,7 @@
   position: relative;
   margin-bottom: 2px;
   border-radius: 8px;
+  list-style-type: none !important;
 
   &:before {
     content: "";
@@ -74,6 +85,19 @@
     margin-left: 8px;
     font-size: 14px;
     background: darkblue;
+  }
+
+  &__full {
+    position: absolute;
+    display: none;
+    width: 250px;
+    top: -12px;
+    left: 100%;
+  }
+
+  &__full--visible {
+    display: block;
+    z-index: 2;
   }
 }
 

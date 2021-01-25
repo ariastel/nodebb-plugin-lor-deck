@@ -29,8 +29,7 @@
     }
   ],
   "staticDirs": {
-    "static": "static",
-    "decks": "decks"
+    "static": "static"
   },
   "less": [
     "static/style.less"
@@ -41,5 +40,6 @@
   "acpScripts": [
     "lib/admin.js"
   ],
+  "templates": "templates",
   "settingsRoute": "/admin/plugins/lor-deck"
 }
