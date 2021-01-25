@@ -1,10 +1,36 @@
 'use strict';
 
+const meta = require.main.require('./src/meta');
+
 const { DeckEncoder } = require('runeterra');
 const CardsData = require('./static/cards.json');
 
-const LoRDeckPlugin = {};
 
+const LoRDeckPlugin = {
+  settings: null
+};
+
+LoRDeckPlugin.init = function (data, callback) {
+  function render(_, res) {
+    res.render('admin/plugins/lor-deck', {});
+  }
+
+  data.router.get('/admin/plugins/lor-deck', data.middleware.admin.buildHeader, render);
+  data.router.get('/api/admin/plugins/lor-deck', render);
+
+  meta.settings.get('lor-deck', function(_, settings) {
+    LoRDeckPlugin.settings = settings;
+    callback();
+  });
+}
+
+LoRDeckPlugin.addMenuItem = function(custom_header, callback) {
+  custom_header.plugins.push({
+    'route': '/plugins/lor-deck',
+    "name": 'LoR Deck'
+  });
+  callback(null, custom_header);
+};
 
 LoRDeckPlugin.composerFormatting = function (data, callback) {
   data.options.push({
@@ -16,7 +42,7 @@ LoRDeckPlugin.composerFormatting = function (data, callback) {
 };
 
 function getCardImageURL(code, full = false) {
-  return `https://cdn.portal.ariastel.com/lor/cards/${code}${full ? '-full' : ''}.png`;
+  return `${LoRDeckPlugin.settings.host || ''}/${code}${full ? '-full' : ''}.png`;
 }
 
 
