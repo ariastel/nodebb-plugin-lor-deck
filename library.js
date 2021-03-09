@@ -22,21 +22,21 @@ LoRDeckPlugin.init = function (data, callback) {
   });
 }
 
-LoRDeckPlugin.addMenuItem = function (custom_header, callback) {
+LoRDeckPlugin.addMenuItem = async function (custom_header) {
   custom_header.plugins.push({
     'route': '/plugins/lor-deck',
-    "name": 'LoR Deck'
+    'name': 'LoR Deck'
   });
-  callback(null, custom_header);
+  return custom_header;
 };
 
-LoRDeckPlugin.composerFormatting = function (data, callback) {
+LoRDeckPlugin.composerFormatting = async function (data) {
   data.options.push({
     name: 'lor-deck',
     className: 'fa fa-gamepad',
     title: 'LoR Deck',
   });
-  callback(null, data);
+  return data;
 };
 
 function replaceTagContent(content) {
@@ -51,14 +51,14 @@ function replaceTagContent(content) {
   });
 }
 
-LoRDeckPlugin.parsePost = function (data, callback) {
+LoRDeckPlugin.parsePost = async function (data) {
   const newData = { ...data };
   newData.postData.content = replaceTagContent(data.postData.content);
-  callback(null, newData);
+  return newData;
 };
 
-LoRDeckPlugin.parseRaw = function (data, callback) {
-  callback(null, replaceTagContent(data));
+LoRDeckPlugin.parseRaw = async function (data) {
+  return replaceTagContent(data);
 };
 
 module.exports = LoRDeckPlugin;
