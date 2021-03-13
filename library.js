@@ -8,7 +8,7 @@ const LoRDeckPlugin = {
   settings: null
 };
 
-LoRDeckPlugin.init = function (data, callback) {
+LoRDeckPlugin.init = async function (data) {
   function render(_, res) {
     res.render('admin/plugins/lor-deck', {});
   }
@@ -16,10 +16,9 @@ LoRDeckPlugin.init = function (data, callback) {
   data.router.get('/admin/plugins/lor-deck', data.middleware.admin.buildHeader, render);
   data.router.get('/api/admin/plugins/lor-deck', render);
 
-  meta.settings.get('lor-deck', function (_, settings) {
-    LoRDeckPlugin.settings = settings;
-    callback();
-  });
+  LoRDeckPlugin.settings = await meta.settings.get('lor-deck');
+
+  return;
 }
 
 LoRDeckPlugin.addMenuItem = async function (custom_header) {
