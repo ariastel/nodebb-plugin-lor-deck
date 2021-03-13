@@ -5906,5 +5906,1237 @@
     "cost": 12,
     "name": "Чувствуешь драйв?",
     "type": "Заклинание"
+  },
+  "04SH070": {
+    "id": "04SH070",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Недостойный",
+    "type": "Заклинание"
+  },
+  "04SH081": {
+    "id": "04SH081",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Баккай – заклинательница песка",
+    "type": "Боец"
+  },
+  "04SH059T2": {
+    "id": "04SH059T2",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал отрицания",
+    "type": "Заклинание"
+  },
+  "04SH059T1": {
+    "id": "04SH059T1",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал отрицания",
+    "type": "Заклинание"
+  },
+  "04SH077": {
+    "id": "04SH077",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Глас восставших",
+    "type": "Боец"
+  },
+  "04SH089": {
+    "id": "04SH089",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Натуралистка из пустыни",
+    "type": "Боец"
+  },
+  "04SH089T1": {
+    "id": "04SH089T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Подростковый максимализм",
+    "type": "Способность"
+  },
+  "04SH015": {
+    "id": "04SH015",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Разз Кровавая Грива",
+    "type": "Боец"
+  },
+  "04SH058": {
+    "id": "04SH058",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ваятель песка",
+    "type": "Боец"
+  },
+  "04SH035": {
+    "id": "04SH035",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Нажива",
+    "type": "Заклинание"
+  },
+  "04SH028": {
+    "id": "04SH028",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Древние механизмы",
+    "type": "Место силы"
+  },
+  "04SH002": {
+    "id": "04SH002",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Баккай-жнец",
+    "type": "Боец"
+  },
+  "04SH042": {
+    "id": "04SH042",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Спящий камненосец",
+    "type": "Место силы"
+  },
+  "04SH032": {
+    "id": "04SH032",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Жестокая силачка",
+    "type": "Боец"
+  },
+  "04SH055": {
+    "id": "04SH055",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Исследовательница руин",
+    "type": "Боец"
+  },
+  "04SH073": {
+    "id": "04SH073",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Талия",
+    "type": "Чемпион"
+  },
+  "04SH073T2": {
+    "id": "04SH073T2",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Талия",
+    "type": "Чемпион"
+  },
+  "04SH073T1": {
+    "id": "04SH073T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Плетеный залп",
+    "type": "Способность"
+  },
+  "04SH073T3": {
+    "id": "04SH073T3",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Прядение камней Талии",
+    "type": "Чемпион"
+  },
+  "04SH091": {
+    "id": "04SH091",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Кахири-ученик",
+    "type": "Боец"
+  },
+  "04SH024": {
+    "id": "04SH024",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Соляной шпиль",
+    "type": "Место силы"
+  },
+  "04SH003": {
+    "id": "04SH003",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Азир",
+    "type": "Чемпион"
+  },
+  "04SH003T2": {
+    "id": "04SH003T2",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Азир",
+    "type": "Чемпион"
+  },
+  "04SH003T3": {
+    "id": "04SH003T3",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Азир",
+    "type": "Чемпион"
+  },
+  "04SH003T14": {
+    "id": "04SH003T14",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Песчаный скакун",
+    "type": "Боец"
+  },
+  "04SH003T5": {
+    "id": "04SH003T5",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Золотая вестница",
+    "type": "Боец"
+  },
+  "04SH003T4": {
+    "id": "04SH003T4",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Восстань! Азира",
+    "type": "Чемпион"
+  },
+  "04SH003T10": {
+    "id": "04SH003T10",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Дворец полководца",
+    "type": "Место силы"
+  },
+  "04SH003T1": {
+    "id": "04SH003T1",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Песчаный солдат",
+    "type": "Боец"
+  },
+  "04SH003T8": {
+    "id": "04SH003T8",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Вечный гладиатор",
+    "type": "Боец"
+  },
+  "04SH003T6": {
+    "id": "04SH003T6",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Пески времени",
+    "type": "Заклинание"
+  },
+  "04SH003T12": {
+    "id": "04SH003T12",
+    "region": "shurima",
+    "cost": 9,
+    "name": "Песчаная буря",
+    "type": "Заклинание"
+  },
+  "04SH003T11": {
+    "id": "04SH003T11",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Стража императора",
+    "type": "Боец"
+  },
+  "04SH003T7": {
+    "id": "04SH003T7",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Зыбкий мираж",
+    "type": "Заклинание"
+  },
+  "04SH003T13": {
+    "id": "04SH003T13",
+    "region": "shurima",
+    "cost": 10,
+    "name": "Зов вознесшегося",
+    "type": "Заклинание"
+  },
+  "04SH003T9": {
+    "id": "04SH003T9",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Процветание императора",
+    "type": "Заклинание"
+  },
+  "04SH011": {
+    "id": "04SH011",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Исследовательницы ксенотипов",
+    "type": "Боец"
+  },
+  "04SH114": {
+    "id": "04SH114",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Гнев пустыни",
+    "type": "Заклинание"
+  },
+  "04SH067": {
+    "id": "04SH067",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ренектон",
+    "type": "Чемпион"
+  },
+  "04SH067T1": {
+    "id": "04SH067T1",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ренектон",
+    "type": "Чемпион"
+  },
+  "04SH067T4": {
+    "id": "04SH067T4",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ренектон",
+    "type": "Чемпион"
+  },
+  "04SH067T2": {
+    "id": "04SH067T2",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Беспощадный хищник Ренектона",
+    "type": "Чемпион"
+  },
+  "04SH067T5": {
+    "id": "04SH067T5",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Кровавый тиран",
+    "type": "Способность"
+  },
+  "04SH119": {
+    "id": "04SH119",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Рикошет",
+    "type": "Заклинание"
+  },
+  "04SH093": {
+    "id": "04SH093",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Выточенный камень",
+    "type": "Заклинание"
+  },
+  "04SH038": {
+    "id": "04SH038",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Пустынный лихач",
+    "type": "Боец"
+  },
+  "04SH099": {
+    "id": "04SH099",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Восстань!",
+    "type": "Заклинание"
+  },
+  "04SH048": {
+    "id": "04SH048",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Внутреннее святилище",
+    "type": "Место силы"
+  },
+  "04SH098T3": {
+    "id": "04SH098T3",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T12": {
+    "id": "04SH098T12",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T7": {
+    "id": "04SH098T7",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T6": {
+    "id": "04SH098T6",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T2": {
+    "id": "04SH098T2",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T10": {
+    "id": "04SH098T10",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T5": {
+    "id": "04SH098T5",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T8": {
+    "id": "04SH098T8",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098T1": {
+    "id": "04SH098T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH098": {
+    "id": "04SH098",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Удачная находка",
+    "type": "Заклинание"
+  },
+  "04SH020": {
+    "id": "04SH020",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Сивир",
+    "type": "Чемпион"
+  },
+  "04SH057": {
+    "id": "04SH057",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Вдохновляющий маршал",
+    "type": "Боец"
+  },
+  "04SH006": {
+    "id": "04SH006",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Бушующие пески",
+    "type": "Место силы"
+  },
+  "04SH076T1": {
+    "id": "04SH076T1",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Изваяние стазиса",
+    "type": "Место силы"
+  },
+  "04SH082": {
+    "id": "04SH082",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Гибельный путь",
+    "type": "Заклинание"
+  },
+  "04SH075": {
+    "id": "04SH075",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Разделяй и властвуй",
+    "type": "Заклинание"
+  },
+  "04SH018": {
+    "id": "04SH018",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал подчинения",
+    "type": "Заклинание"
+  },
+  "04SH009": {
+    "id": "04SH009",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Буйствующий баккай",
+    "type": "Боец"
+  },
+  "04SH049": {
+    "id": "04SH049",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Удачливый поро",
+    "type": "Боец"
+  },
+  "04SH049T1": {
+    "id": "04SH049T1",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Величественный поро",
+    "type": "Боец"
+  },
+  "04SH045": {
+    "id": "04SH045",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Изнурение",
+    "type": "Заклинание"
+  },
+  "04SH037": {
+    "id": "04SH037",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Вздыбленная земля",
+    "type": "Заклинание"
+  },
+  "04SH107": {
+    "id": "04SH107",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Торжество вознесшегося",
+    "type": "Заклинание"
+  },
+  "04SH047": {
+    "id": "04SH047",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Насус",
+    "type": "Чемпион"
+  },
+  "04SH097": {
+    "id": "04SH097",
+    "region": "shurima",
+    "cost": 8,
+    "name": "Хранительница святилища",
+    "type": "Боец"
+  },
+  "04SH026": {
+    "id": "04SH026",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Хранитель дюн",
+    "type": "Боец"
+  },
+  "04SH102": {
+    "id": "04SH102",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Золотая посланница",
+    "type": "Боец"
+  },
+  "04SH001": {
+    "id": "04SH001",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Начинающий хрономант",
+    "type": "Боец"
+  },
+  "04SH009T1": {
+    "id": "04SH009T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Буйство баккай",
+    "type": "Способность"
+  },
+  "04SH013": {
+    "id": "04SH013",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Заповедник",
+    "type": "Место силы"
+  },
+  "04SH062": {
+    "id": "04SH062",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Погребенный солнечный диск",
+    "type": "Место силы"
+  },
+  "04SH016": {
+    "id": "04SH016",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Вытягивающий удар",
+    "type": "Заклинание"
+  },
+  "04SH108": {
+    "id": "04SH108",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Клинок-бумеранг",
+    "type": "Заклинание"
+  },
+  "04SH014": {
+    "id": "04SH014",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Маховичок",
+    "type": "Боец"
+  },
+  "04SH047T1": {
+    "id": "04SH047T1",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Вытягивающий удар Насуса",
+    "type": "Чемпион"
+  },
+  "04SH047T2": {
+    "id": "04SH047T2",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Насус",
+    "type": "Чемпион"
+  },
+  "04SH047T3": {
+    "id": "04SH047T3",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Насус",
+    "type": "Чемпион"
+  },
+  "04SH021": {
+    "id": "04SH021",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Вернувшийся Кахири",
+    "type": "Боец"
+  },
+  "04SH101": {
+    "id": "04SH101",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Верный вассал",
+    "type": "Боец"
+  },
+  "04SH012": {
+    "id": "04SH012",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Почтенный иерофант",
+    "type": "Боец"
+  },
+  "04SH020T2": {
+    "id": "04SH020T2",
+    "region": "shurima",
+    "cost": 6,
+    "name": "Рикошет Сивир",
+    "type": "Чемпион"
+  },
+  "04SH020T1": {
+    "id": "04SH020T1",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Сивир",
+    "type": "Чемпион"
+  },
+  "04SH031": {
+    "id": "04SH031",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Большое будущее",
+    "type": "Заклинание"
+  },
+  "04SH004": {
+    "id": "04SH004",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Взвешенное решение",
+    "type": "Заклинание"
+  },
+  "04SH059": {
+    "id": "04SH059",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал отрицания",
+    "type": "Заклинание"
+  },
+  "04SH076": {
+    "id": "04SH076",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Древние песочные часы",
+    "type": "Заклинание"
+  },
+  "04SH118": {
+    "id": "04SH118",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Пробуждение песков",
+    "type": "Заклинание"
+  },
+  "04SH041": {
+    "id": "04SH041",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Разведчица Сай",
+    "type": "Боец"
+  },
+  "04SH005": {
+    "id": "04SH005",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Кровожадный мародер",
+    "type": "Боец"
+  },
+  "04SH046": {
+    "id": "04SH046",
+    "region": "shurima",
+    "cost": 12,
+    "name": "Песчаная химера",
+    "type": "Боец"
+  },
+  "04SH062T1": {
+    "id": "04SH062T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Восстановленный солнечный диск",
+    "type": "Место силы"
+  },
+  "04SH018T2": {
+    "id": "04SH018T2",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал подчинения",
+    "type": "Заклинание"
+  },
+  "04SH018T1": {
+    "id": "04SH018T1",
+    "region": "shurima",
+    "cost": 4,
+    "name": "Ритуал подчинения",
+    "type": "Заклинание"
+  },
+  "04SH105": {
+    "id": "04SH105",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Гробница в песках",
+    "type": "Место силы"
+  },
+  "04SH069": {
+    "id": "04SH069",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Беспощадный хищник",
+    "type": "Заклинание"
+  },
+  "04SH121": {
+    "id": "04SH121",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Ритуал призыва",
+    "type": "Заклинание"
+  },
+  "04SH121T1": {
+    "id": "04SH121T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Ритуал призыва",
+    "type": "Заклинание"
+  },
+  "04SH121T2": {
+    "id": "04SH121T2",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Ритуал призыва",
+    "type": "Заклинание"
+  },
+  "04SH097T1": {
+    "id": "04SH097T1",
+    "region": "shurima",
+    "cost": 0,
+    "name": "Суд хранительницы",
+    "type": "Способность"
+  },
+  "04SH110": {
+    "id": "04SH110",
+    "region": "shurima",
+    "cost": 1,
+    "name": "Прядение камней",
+    "type": "Заклинание"
+  },
+  "04SH051": {
+    "id": "04SH051",
+    "region": "shurima",
+    "cost": 2,
+    "name": "Пьедестал императора",
+    "type": "Место силы"
+  },
+  "04SH106": {
+    "id": "04SH106",
+    "region": "shurima",
+    "cost": 7,
+    "name": "Призрачный огонь",
+    "type": "Заклинание"
+  },
+  "04SH109": {
+    "id": "04SH109",
+    "region": "shurima",
+    "cost": 3,
+    "name": "Зыбучий песок",
+    "type": "Заклинание"
+  },
+  "04SH090": {
+    "id": "04SH090",
+    "region": "shurima",
+    "cost": 5,
+    "name": "Рассерженный камненосец",
+    "type": "Боец"
+  },
+  "04FR006": {
+    "id": "04FR006",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Дарклорн-инквизитор",
+    "type": "Боец"
+  },
+  "04FR016": {
+    "id": "04FR016",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Трофеи",
+    "type": "Заклинание"
+  },
+  "04FR001T1": {
+    "id": "04FR001T1",
+    "region": "freljord",
+    "cost": 8,
+    "name": "Раб Морозных стражей",
+    "type": "Боец"
+  },
+  "04FR013": {
+    "id": "04FR013",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Морозостойкость",
+    "type": "Заклинание"
+  },
+  "04FR005": {
+    "id": "04FR005",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Лиссандра",
+    "type": "Чемпион"
+  },
+  "04FR005T4": {
+    "id": "04FR005T4",
+    "region": "freljord",
+    "cost": 17,
+    "name": "Наблюдатель",
+    "type": "Боец"
+  },
+  "04FR005T1": {
+    "id": "04FR005T1",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Лиссандра",
+    "type": "Чемпион"
+  },
+  "04FR005T2": {
+    "id": "04FR005T2",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Погребение Лиссандры",
+    "type": "Чемпион"
+  },
+  "04FR001": {
+    "id": "04FR001",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Ледяной раб",
+    "type": "Место силы"
+  },
+  "04FR007": {
+    "id": "04FR007",
+    "region": "freljord",
+    "cost": 5,
+    "name": "Погребение",
+    "type": "Заклинание"
+  },
+  "04FR007T1": {
+    "id": "04FR007T1",
+    "region": "freljord",
+    "cost": 0,
+    "name": "Ледяная гробница",
+    "type": "Место силы"
+  },
+  "04FR017": {
+    "id": "04FR017",
+    "region": "freljord",
+    "cost": 2,
+    "name": "Благословение предков",
+    "type": "Заклинание"
+  },
+  "04FR014": {
+    "id": "04FR014",
+    "region": "freljord",
+    "cost": 4,
+    "name": "Проклятое ущелье",
+    "type": "Место силы"
+  },
+  "04FR009": {
+    "id": "04FR009",
+    "region": "freljord",
+    "cost": 3,
+    "name": "Ледяной осколок",
+    "type": "Заклинание"
+  },
+  "04FR010": {
+    "id": "04FR010",
+    "region": "freljord",
+    "cost": 1,
+    "name": "Три сестры",
+    "type": "Заклинание"
+  },
+  "04NX002": {
+    "id": "04NX002",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Вкрадчивый шепот",
+    "type": "Заклинание"
+  },
+  "04NX010": {
+    "id": "04NX010",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Шип Розы",
+    "type": "Боец"
+  },
+  "04NX015": {
+    "id": "04NX015",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Дело крови",
+    "type": "Заклинание"
+  },
+  "04NX006": {
+    "id": "04NX006",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Шпионка Черной Розы",
+    "type": "Боец"
+  },
+  "04NX001": {
+    "id": "04NX001",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Копия",
+    "type": "Заклинание"
+  },
+  "04NX004": {
+    "id": "04NX004",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ле Блан",
+    "type": "Чемпион"
+  },
+  "04NX004T1": {
+    "id": "04NX004T1",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Печать порока Ле Блан",
+    "type": "Чемпион"
+  },
+  "04NX005": {
+    "id": "04NX005",
+    "region": "noxus",
+    "cost": 2,
+    "name": "Отражение",
+    "type": "Заклинание"
+  },
+  "04NX004T2": {
+    "id": "04NX004T2",
+    "region": "noxus",
+    "cost": 3,
+    "name": "Ле Блан",
+    "type": "Чемпион"
+  },
+  "04NX016": {
+    "id": "04NX016",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Шипящий прядильщик",
+    "type": "Боец"
+  },
+  "04NX018": {
+    "id": "04NX018",
+    "region": "noxus",
+    "cost": 1,
+    "name": "Алая кровопускательница ",
+    "type": "Боец"
+  },
+  "04NX003": {
+    "id": "04NX003",
+    "region": "noxus",
+    "cost": 4,
+    "name": "Печать порока",
+    "type": "Заклинание"
+  },
+  "04NX017": {
+    "id": "04NX017",
+    "region": "noxus",
+    "cost": 8,
+    "name": "Сила в количестве",
+    "type": "Заклинание"
+  },
+  "04SI005": {
+    "id": "04SI005",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Киндред",
+    "type": "Чемпион"
+  },
+  "04SI005T4": {
+    "id": "04SI005T4",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Духовное путешествие Киндред",
+    "type": "Чемпион"
+  },
+  "04SI005T1": {
+    "id": "04SI005T1",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Киндред",
+    "type": "Чемпион"
+  },
+  "04SI016": {
+    "id": "04SI016",
+    "region": "shadowisles",
+    "cost": 4,
+    "name": "Душепийца ",
+    "type": "Боец"
+  },
+  "04SI007": {
+    "id": "04SI007",
+    "region": "shadowisles",
+    "cost": 7,
+    "name": "Пожиратель памяти",
+    "type": "Боец"
+  },
+  "04SI011": {
+    "id": "04SI011",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "В сумрак",
+    "type": "Заклинание"
+  },
+  "04SI015": {
+    "id": "04SI015",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Морской скарабей",
+    "type": "Боец"
+  },
+  "04SI017": {
+    "id": "04SI017",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Песнь Островов",
+    "type": "Заклинание"
+  },
+  "04SI001": {
+    "id": "04SI001",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Милость Овечки",
+    "type": "Заклинание"
+  },
+  "04SI009": {
+    "id": "04SI009",
+    "region": "shadowisles",
+    "cost": 3,
+    "name": "Ткач душ",
+    "type": "Боец"
+  },
+  "04SI013": {
+    "id": "04SI013",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Матерь масок",
+    "type": "Боец"
+  },
+  "04SI007T3": {
+    "id": "04SI007T3",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Вторая смерть",
+    "type": "Способность"
+  },
+  "04SI002": {
+    "id": "04SI002",
+    "region": "shadowisles",
+    "cost": 5,
+    "name": "Духовное путешествие",
+    "type": "Заклинание"
+  },
+  "04SI003": {
+    "id": "04SI003",
+    "region": "shadowisles",
+    "cost": 2,
+    "name": "Полузабытый божок",
+    "type": "Боец"
+  },
+  "04SI014": {
+    "id": "04SI014",
+    "region": "shadowisles",
+    "cost": 0,
+    "name": "Добыча",
+    "type": "Боец"
+  },
+  "04PZ014": {
+    "id": "04PZ014",
+    "region": "piltoverzaun",
+    "cost": 0,
+    "name": "Производственный бум",
+    "type": "Заклинание"
+  },
+  "04PZ010": {
+    "id": "04PZ010",
+    "region": "piltoverzaun",
+    "cost": 1,
+    "name": "Параллельные потоки",
+    "type": "Заклинание"
+  },
+  "04MT010": {
+    "id": "04MT010",
+    "region": "targon",
+    "cost": 2,
+    "name": "Звездный пик",
+    "type": "Место силы"
+  },
+  "04MT012": {
+    "id": "04MT012",
+    "region": "targon",
+    "cost": 8,
+    "name": "Зов судьбы",
+    "type": "Заклинание"
+  },
+  "04DE014": {
+    "id": "04DE014",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Драконья закуска",
+    "type": "Боец"
+  },
+  "04DE001": {
+    "id": "04DE001",
+    "region": "demacia",
+    "cost": 2,
+    "name": "Почтенный лорд",
+    "type": "Боец"
+  },
+  "04DE003": {
+    "id": "04DE003",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Катаклизм",
+    "type": "Заклинание"
+  },
+  "04DE002": {
+    "id": "04DE002",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Золотая эгида",
+    "type": "Заклинание"
+  },
+  "04DE006": {
+    "id": "04DE006",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Военная выправка",
+    "type": "Заклинание"
+  },
+  "04DE007T1": {
+    "id": "04DE007T1",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Изорванный стяг",
+    "type": "Заклинание"
+  },
+  "04DE008": {
+    "id": "04DE008",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Джарван IV",
+    "type": "Чемпион"
+  },
+  "04DE008T1": {
+    "id": "04DE008T1",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Джарван IV",
+    "type": "Чемпион"
+  },
+  "04DE008T2": {
+    "id": "04DE008T2",
+    "region": "demacia",
+    "cost": 3,
+    "name": "Катаклизм Джарвана IV",
+    "type": "Чемпион"
+  },
+  "04DE010": {
+    "id": "04DE010",
+    "region": "demacia",
+    "cost": 7,
+    "name": "Король Джарван III",
+    "type": "Боец"
+  },
+  "04DE013": {
+    "id": "04DE013",
+    "region": "demacia",
+    "cost": 6,
+    "name": "Гигантский кремнерог",
+    "type": "Боец"
+  },
+  "04DE007": {
+    "id": "04DE007",
+    "region": "demacia",
+    "cost": 1,
+    "name": "Провинившаяся адъютантка",
+    "type": "Боец"
+  },
+  "04DE009": {
+    "id": "04DE009",
+    "region": "demacia",
+    "cost": 4,
+    "name": "Благородный всадник",
+    "type": "Боец"
+  },
+  "04BW011": {
+    "id": "04BW011",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Шулерские кости",
+    "type": "Заклинание"
+  },
+  "04BW008": {
+    "id": "04BW008",
+    "region": "bilgewater",
+    "cost": 4,
+    "name": "Древний клад",
+    "type": "Заклинание"
+  },
+  "04IO014": {
+    "id": "04IO014",
+    "region": "ionia",
+    "cost": 1,
+    "name": "Ученик Ордена Тени",
+    "type": "Боец"
+  },
+  "04IO001": {
+    "id": "04IO001",
+    "region": "ionia",
+    "cost": 4,
+    "name": "Военные музыканты",
+    "type": "Боец"
   }
 }
