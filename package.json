@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "runeterra": "^2.0.0"
+    "runeterra": "^3.0.0"
   },
   "nbbpm": {
     "compatibility": "^1.16.x"

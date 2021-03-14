@@ -1,3 +1,7 @@
+@screen-sm: 768px;
+@screen-lg: 1200px;
+@screen-xl: 1600px;
+
 .flex-center {
   display: flex;
   justify-content: center;
@@ -12,8 +16,7 @@
   padding-left: 0;
 
   &__section {
-    flex: 1;
-    margin-right: 16px;
+    flex: 0 100%;
     list-style-type: none !important;
 
     &__name {
@@ -22,6 +25,15 @@
       font-size: 18px;
       font-family: BeaufortforLOL-Regular, sans-serif;
       font-weight: bold;
+    }
+
+    @media (min-width: @screen-sm) {
+      flex: 0 45%;
+      margin-right: 16px;
+    }
+    
+    @media (min-width: @screen-lg) {
+      flex: 0 30%;
     }
   }
 }
@@ -90,9 +102,15 @@
   &__full {
     position: absolute;
     display: none;
-    width: 250px;
-    top: -12px;
-    left: 100%;
+
+    width: 225px;
+    left: 10%;
+    top: 100%;
+    
+    @media (min-width: @screen-xl) {
+      top: -12px;
+      left: 100%;
+    }
   }
 
   &__full--visible {
@@ -111,6 +129,7 @@
   shadowisles: rgba(34, 73, 46, .6) 35%, rgba(34, 73, 46, 0) 70%;
   bilgewater: rgba(122, 58, 39, .6) 35%, rgba(122, 58, 39, 0) 70%;
   targon: rgba(68, 138, 134, .6) 35%, rgba(68, 138, 134, 0) 70%;
+  shurima: rgba(238, 174, 43, .6) 35%, rgba(238, 174, 43, 0) 70%;
 }
 
 each(@set, {
