@@ -30,7 +30,7 @@
     "static": "static"
   },
   "less": [
-    "static/style.less"
+    "styles/style.less"
   ],
   "scripts": [
     "lib/main.js"
