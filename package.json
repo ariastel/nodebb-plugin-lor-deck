@@ -30,7 +30,7 @@
     "compatibility": "^1.16.x"
   },
   "devDependencies": {
-    "eslint": "^7.21.0"
+    "eslint": "^7.25.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
