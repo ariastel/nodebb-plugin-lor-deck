@@ -38,6 +38,7 @@
   "acpScripts": [
     "lib/admin.js"
   ],
+  "languages": "languages",
   "templates": "templates",
   "settingsRoute": "/admin/plugins/lor-deck"
 }

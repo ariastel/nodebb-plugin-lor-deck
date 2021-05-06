@@ -24,7 +24,7 @@ LoRDeckPlugin.init = async function (data) {
 LoRDeckPlugin.addMenuItem = async function (custom_header) {
   custom_header.plugins.push({
     'route': '/plugins/lor-deck',
-    'name': 'LoR Deck'
+    'name': '[[lor-deck:lor-deck]]'
   });
   return custom_header;
 };
@@ -33,7 +33,7 @@ LoRDeckPlugin.composerFormatting = async function (data) {
   data.options.push({
     name: 'lor-deck',
     className: 'fa fa-gamepad',
-    title: 'LoR Deck',
+    title: '[[lor-deck:lor-deck]]',
   });
   return data;
 };
